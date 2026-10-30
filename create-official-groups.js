@@ -34,6 +34,7 @@ const RED = 'FFFF9999';
 
 // Barcode types as Shopify writes them in the "Variant Barcodes" column
 const UPC_TYPE = 'upc';
+const GTIN_TYPE = 'gtin';
 const NS_PID_TYPE = 'ns-pid';
 
 // Shopify reads ":" and ";" as separators, so literal ones must be escaped with "\"
@@ -45,18 +46,46 @@ const cleanBarcode = (barcodes) => barcodes.replace(/^'/, '').trim();
 // Image-only rows have no option value, SKU or barcode
 const isVariantRow = (row) => row[OPTION1_VALUE] || row[SKU] || row[BARCODES];
 
+// Numeric barcodes decide which products go in the groups, so the groups don't move
 const hasUpc = (row) => /^\d+$/.test(cleanBarcode(row[BARCODES]));
 
-// A barcode that is not a UPC (e.g. "ROUTEIN") is dropped from the update
-const hasInvalidBarcode = (row) => cleanBarcode(row[BARCODES]) !== '' && !hasUpc(row);
+// GS1 check digit, used by UPC, EAN and GTIN-14
+function isValidCheckDigit(code) {
+  const digits = [...code].map(Number);
+  const checkDigit = digits.pop();
+  const sum = digits
+    .reverse()
+    .reduce((total, digit, i) => total + digit * (i % 2 === 0 ? 3 : 1), 0);
+  return (10 - (sum % 10)) % 10 === checkDigit;
+}
+
+// Returns "upc:..." or "gtin:..." for a valid code, or null if Shopify would reject it
+function typedBarcode(barcodes) {
+  let code = cleanBarcode(barcodes);
+  if (!/^\d+$/.test(code)) return null;
+
+  // UPCs that lost their leading zero, or were exported with extra zeros
+  if (code.length === 11) code = `0${code}`;
+  if (code.length === 14 && code.startsWith('00')) code = code.slice(2);
+  if (code.length === 13 && code.startsWith('0')) code = code.slice(1);
+
+  if (![12, 13, 14].includes(code.length) || !isValidCheckDigit(code)) return null;
+
+  return code.length === 12 ? `${UPC_TYPE}:${code}` : `${GTIN_TYPE}:${code}`;
+}
+
+const hasValidBarcode = (row) => typedBarcode(row[BARCODES]) !== null;
+
+// A barcode that can't be used (e.g. "ROUTEIN" or a wrong check digit) is dropped from the update
+const hasInvalidBarcode = (row) => cleanBarcode(row[BARCODES]) !== '' && !hasValidBarcode(row);
 
 // Builds "upc:841949245967; ns-pid:PP016002DPOLVMedium" from the UPC and the full SKU,
-// barcodes that are not a UPC are left out
+// barcodes that are not valid are left out
 function buildBarcodes(barcodes, sku) {
-  const upc = cleanBarcode(barcodes);
+  const barcode = typedBarcode(barcodes);
   const values = [];
 
-  if (/^\d+$/.test(upc)) values.push(`${UPC_TYPE}:${upc}`);
+  if (barcode) values.push(barcode);
 
   if (sku.trim()) values.push(`${NS_PID_TYPE}:${escapeValue(sku.trim())}`);
 
@@ -163,7 +192,7 @@ async function main() {
     }
 
     withUpc.push(rows);
-    const missing = variants.filter((row) => !hasUpc(row));
+    const missing = variants.filter((row) => !hasValidBarcode(row));
     if (missing.length) variantsWithoutUpc.push(missing);
   }
 
