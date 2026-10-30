@@ -30,6 +30,7 @@ const OPTION1_VALUE = COLUMNS.indexOf('Option1 Value');
 
 const WHITE = 'FFFFFFFF';
 const GRAY = 'FFD9D9D9';
+const RED = 'FFFF9999';
 
 // Barcode types as Shopify writes them in the "Variant Barcodes" column
 const UPC_TYPE = 'upc';
@@ -46,13 +47,16 @@ const isVariantRow = (row) => row[OPTION1_VALUE] || row[SKU] || row[BARCODES];
 
 const hasUpc = (row) => /^\d+$/.test(cleanBarcode(row[BARCODES]));
 
-// Builds "upc:841949245967; ns-pid:PP016002DPOLVMedium" from the UPC and the full SKU
+// A barcode that is not a UPC (e.g. "ROUTEIN") is dropped from the update
+const hasInvalidBarcode = (row) => cleanBarcode(row[BARCODES]) !== '' && !hasUpc(row);
+
+// Builds "upc:841949245967; ns-pid:PP016002DPOLVMedium" from the UPC and the full SKU,
+// barcodes that are not a UPC are left out
 function buildBarcodes(barcodes, sku) {
   const upc = cleanBarcode(barcodes);
   const values = [];
 
   if (/^\d+$/.test(upc)) values.push(`${UPC_TYPE}:${upc}`);
-  else if (upc) values.push(escapeValue(upc));
 
   if (sku.trim()) values.push(`${NS_PID_TYPE}:${escapeValue(sku.trim())}`);
 
@@ -98,17 +102,19 @@ const withUpdatedBarcodes = (products) =>
     rows.map((row) => row.with(BARCODES, buildBarcodes(row[BARCODES], row[SKU])))
   );
 
-async function writeXlsx(filePath, products) {
+async function writeXlsx(filePath, products, highlight = () => false) {
   const workbook = new ExcelJS.Workbook();
   const sheet = workbook.addWorksheet('Products');
 
   sheet.columns = COLUMNS.map((header) => ({ header, key: header, width: 24 }));
   sheet.getRow(1).font = { bold: true };
 
-  // Zebra fill per product: every row of a handle shares the same color
+  // Zebra fill per product: every row of a handle shares the same color,
+  // highlighted rows are filled in red
   products.forEach((rows, index) => {
-    const color = index % 2 === 0 ? GRAY : WHITE;
+    const zebra = index % 2 === 0 ? GRAY : WHITE;
     for (const values of rows) {
+      const color = highlight(values) ? RED : zebra;
       const row = sheet.addRow(values);
       for (let col = 1; col <= COLUMNS.length; col++) {
         row.getCell(col).fill = {
@@ -124,14 +130,14 @@ async function writeXlsx(filePath, products) {
 }
 
 // Writes the products as name.csv and name.xlsx inside dir/csv and dir/xlsx
-async function writeFiles(dir, name, products) {
+async function writeFiles(dir, name, products, highlight) {
   const csvDir = path.join(dir, 'csv');
   const xlsxDir = path.join(dir, 'xlsx');
   fs.mkdirSync(csvDir, { recursive: true });
   fs.mkdirSync(xlsxDir, { recursive: true });
 
   fs.writeFileSync(path.join(csvDir, `${name}.csv`), stringify([COLUMNS, ...products.flat()]));
-  await writeXlsx(path.join(xlsxDir, `${name}.xlsx`), products);
+  await writeXlsx(path.join(xlsxDir, `${name}.xlsx`), products, highlight);
 }
 
 // Removes the generated files so groups from a previous run don't stay behind
@@ -175,7 +181,7 @@ async function main() {
   }
 
   await writeFiles(PRODUCTS_WITHOUT_UPC_DIR, 'products_without_upc', withoutUpc);
-  await writeFiles(VARIANTS_WITHOUT_UPC_DIR, 'variants_without_upc', variantsWithoutUpc);
+  await writeFiles(VARIANTS_WITHOUT_UPC_DIR, 'variants_without_upc', variantsWithoutUpc, hasInvalidBarcode);
 
   const countRows = (list) => list.reduce((total, rows) => total + rows.length, 0);
   console.log(`${withUpc.length} products (${countRows(withUpc)} rows) -> ${groups.length} groups in ${BACKUP_DIR}, ${UPDATE_DIR}`);
