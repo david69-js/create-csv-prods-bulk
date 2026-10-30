@@ -1,288 +1,4 @@
 Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Barcodes
-saguaro-puff-print-pocket-tee,Saguaro Puff Print Pocket Tee,Color,Tan,Size,Small,,,SG001001TANSmall,upc:841949127669; ns-pid:SG001001TANSmall
-saguaro-puff-print-pocket-tee,,,Tan,,Medium,,,SG001001TANMedium,upc:841949127676; ns-pid:SG001001TANMedium
-saguaro-puff-print-pocket-tee,,,Tan,,Large,,,SG001001TANLarge,upc:841949127683; ns-pid:SG001001TANLarge
-saguaro-puff-print-pocket-tee,,,Tan,,XLarge,,,SG001001TANXLarge,upc:841949127690; ns-pid:SG001001TANXLarge
-saguaro-puff-print-pocket-tee,,,Tan,,XXLarge,,,SG001001TANXXLarge,upc:841949127706; ns-pid:SG001001TANXXLarge
-sequoia-puff-print-pocket-tee,Sequoia Puff Print Pocket Tee,Color,Green,Size,Small,,,SQ001004GRNSmall,upc:841949127560; ns-pid:SQ001004GRNSmall
-sequoia-puff-print-pocket-tee,,,Green,,Medium,,,SQ001004GRNMedium,upc:841949127577; ns-pid:SQ001004GRNMedium
-sequoia-puff-print-pocket-tee,,,Green,,Large,,,SQ001004GRNLarge,upc:841949127584; ns-pid:SQ001004GRNLarge
-sequoia-puff-print-pocket-tee,,,Green,,XLarge,,,SQ001004GRNXLarge,upc:841949127591; ns-pid:SQ001004GRNXLarge
-sequoia-puff-print-pocket-tee,,,Green,,XXLarge,,,SQ001004GRNXXLarge,upc:841949127607; ns-pid:SQ001004GRNXXLarge
-national-geographic-x-parks-project-butterflies-cap,National Geographic x Parks Project Butterflies Cap,Color,Yellow,Size,One Size,,,NG304001YELOne Size,upc:841949128642; ns-pid:NG304001YELOne Size
-national-geographic-x-parks-project-butterflies-cap,,,,,,,,,
-national-geographic-x-parks-project-butterflies-cap,,,,,,,,,
-national-geographic-x-parks-project-butterflies-cap,,,,,,,,,
-national-geographic-x-parks-project-butterflies-cap,,,,,,,,,
-national-geographic-x-parks-project-butterflies-deep-v-neck,National Geographic x Parks Project Butterflies Deep V Neck,Color,White And Royal Blue,Size,XSmall,,,NG101003WHROBUXSmall,upc:841949128390; ns-pid:NG101003WHROBUXSmall
-national-geographic-x-parks-project-butterflies-deep-v-neck,,,White And Royal Blue,,Small,,,NG101003WHROBUSmall,upc:841949128406; ns-pid:NG101003WHROBUSmall
-national-geographic-x-parks-project-butterflies-deep-v-neck,,,White And Royal Blue,,Medium,,,NG101003WHROBUMedium,upc:841949128413; ns-pid:NG101003WHROBUMedium
-national-geographic-x-parks-project-butterflies-deep-v-neck,,,White And Royal Blue,,Large,,,NG101003WHROBULarge,upc:841949128420; ns-pid:NG101003WHROBULarge
-national-geographic-x-parks-project-butterflies-deep-v-neck,,,White And Royal Blue,,XLarge,,,NG101003WHROBUXLarge,upc:841949128437; ns-pid:NG101003WHROBUXLarge
-national-geographic-x-parks-project-butterflies-deep-v-neck,,,White And Royal Blue,,XXLarge,,,NG101003WHROBUXXLarge,upc:841949128444; ns-pid:NG101003WHROBUXXLarge
-national-geographic-x-parks-project-butterflies-deep-v-neck,,,White And Royal Blue,,XXXLarge,,,NG101003WHROBUXXXLarge,upc:841949128451; ns-pid:NG101003WHROBUXXXLarge
-national-geographic-x-parks-project-photo-real-butterflies-tee,National Geographic x Parks Project Photo Real Butterflies Tee,Color,Sea Green,Size,XSmall,,,NG001004SEGRNXSmall,upc:841949127980; ns-pid:NG001004SEGRNXSmall
-national-geographic-x-parks-project-photo-real-butterflies-tee,,,Sea Green,,Small,,,NG001004SEGRNSmall,upc:841949127997; ns-pid:NG001004SEGRNSmall
-national-geographic-x-parks-project-photo-real-butterflies-tee,,,Sea Green,,Medium,,,NG001004SEGRNMedium,upc:841949128000; ns-pid:NG001004SEGRNMedium
-national-geographic-x-parks-project-photo-real-butterflies-tee,,,Sea Green,,Large,,,NG001004SEGRNLarge,upc:841949128017; ns-pid:NG001004SEGRNLarge
-national-geographic-x-parks-project-photo-real-butterflies-tee,,,Sea Green,,XLarge,,,NG001004SEGRNXLarge,upc:841949128024; ns-pid:NG001004SEGRNXLarge
-national-geographic-x-parks-project-photo-real-butterflies-tee,,,Sea Green,,XXLarge,,,NG001004SEGRNXXLarge,upc:841949128031; ns-pid:NG001004SEGRNXXLarge
-national-geographic-x-parks-project-photo-real-butterflies-tee,,,Sea Green,,XXXLarge,,,NG001004SEGRNXXXLarge,upc:841949128048; ns-pid:NG001004SEGRNXXXLarge
-national-geographic-x-parks-project-butterflies-tie-dye-tee,National Geographic x Parks Project Butterflies Tie Dye Tee,Color,Tie Dye,Size,XSmall,,,NG001003TIEXSmall,upc:841949127911; ns-pid:NG001003TIEXSmall
-national-geographic-x-parks-project-butterflies-tie-dye-tee,,,Tie Dye,,Small,,,NG001003TIESmall,upc:841949127928; ns-pid:NG001003TIESmall
-national-geographic-x-parks-project-butterflies-tie-dye-tee,,,Tie Dye,,Medium,,,NG001003TIEMedium,upc:841949127935; ns-pid:NG001003TIEMedium
-national-geographic-x-parks-project-butterflies-tie-dye-tee,,,Tie Dye,,Large,,,NG001003TIELarge,upc:841949127942; ns-pid:NG001003TIELarge
-national-geographic-x-parks-project-butterflies-tie-dye-tee,,,Tie Dye,,XLarge,,,NG001003TIEXLarge,upc:841949127959; ns-pid:NG001003TIEXLarge
-national-geographic-x-parks-project-butterflies-tie-dye-tee,,,Tie Dye,,XXLarge,,,NG001003TIEXXLarge,upc:841949127966; ns-pid:NG001003TIEXXLarge
-national-geographic-x-parks-project-specimens-long-sleeve-tee,National Geographic x Parks Project Butterflies Specimens Long Sleeve Tee,Color,Dusty Blue,Size,Small,,,NG002002DUBLUSmall,upc:841949126822; ns-pid:NG002002DUBLUSmall
-national-geographic-x-parks-project-specimens-long-sleeve-tee,,,Dusty Blue,,Medium,,,NG002002DUBLUMedium,upc:841949126839; ns-pid:NG002002DUBLUMedium
-national-geographic-x-parks-project-specimens-long-sleeve-tee,,,Dusty Blue,,Large,,,NG002002DUBLULarge,upc:841949126846; ns-pid:NG002002DUBLULarge
-national-geographic-x-parks-project-specimens-long-sleeve-tee,,,Dusty Blue,,XLarge,,,NG002002DUBLUXLarge,upc:841949126853; ns-pid:NG002002DUBLUXLarge
-national-geographic-x-parks-project-specimens-long-sleeve-tee,,,Dusty Blue,,XXLarge,,,NG002002DUBLUXXLarge,upc:841949126860; ns-pid:NG002002DUBLUXXLarge
-national-geographic-x-parks-project-specimens-long-sleeve-tee,,,,,,,,,
-national-geographic-x-parks-project-butterflies-hoodie,National Geographic x Parks Project Butterflies Hoodie,Color,Cream,Size,XSmall,,,NG008001CRMXSmall,upc:841949125825; ns-pid:NG008001CRMXSmall
-national-geographic-x-parks-project-butterflies-hoodie,,,Cream,,Small,,,NG008001CRMSmall,upc:841949125832; ns-pid:NG008001CRMSmall
-national-geographic-x-parks-project-butterflies-hoodie,,,Cream,,Medium,,,NG008001CRMMedium,upc:841949125849; ns-pid:NG008001CRMMedium
-national-geographic-x-parks-project-butterflies-hoodie,,,Cream,,Large,,,NG008001CRMLarge,upc:841949125856; ns-pid:NG008001CRMLarge
-national-geographic-x-parks-project-butterflies-hoodie,,,Cream,,XLarge,,,NG008001CRMXLarge,upc:841949125863; ns-pid:NG008001CRMXLarge
-national-geographic-x-parks-project-butterflies-hoodie,,,Cream,,XXLarge,,,NG008001CRMXXLarge,upc:841949125870; ns-pid:NG008001CRMXXLarge
-good-vibes-bamboo-cutlery,Good Vibes Bamboo Cutlery,Color,Blue,Size,One Size,,,PP402018BLUOne Size,upc:841949128703; ns-pid:PP402018BLUOne Size
-good-vibes-bamboo-cutlery,,,,,,,,,
-good-vibes-bamboo-cutlery,,,,,,,,,
-good-vibes-bamboo-cutlery,,,,,,,,,
-good-vibes-bamboo-cutlery,,,,,,,,,
-good-vibes-bamboo-cutlery,,,,,,,,,
-good-vibes-bamboo-cutlery,,,,,,,,,
-leave-only-good-vibes-mug,Leave Only Good Vibes Mug,Color,White,Size,One Size,,,PP401016WHTOne Size,upc:841949128758; ns-pid:PP401016WHTOne Size
-leave-only-good-vibes-mug,,,,,,,,,
-leave-only-good-vibes-mug,,,,,,,,,
-leave-only-good-vibes-mug,,,,,,,,,
-parks-peace-womens-boxy-long-sleeve-tee,Parks Peace Women's Boxy Long Sleeve Tee,Color,White,Size,XSmall,,,PP102008WHTXSmall,upc:841949128581; ns-pid:PP102008WHTXSmall
-parks-peace-womens-boxy-long-sleeve-tee,,,White,,Small,,,PP102008WHTSmall,upc:841949128598; ns-pid:PP102008WHTSmall
-parks-peace-womens-boxy-long-sleeve-tee,,,White,,Medium,,,PP102008WHTMedium,upc:841949128604; ns-pid:PP102008WHTMedium
-parks-peace-womens-boxy-long-sleeve-tee,,,White,,Large,,,PP102008WHTLarge,upc:841949128611; ns-pid:PP102008WHTLarge
-parks-peace-womens-boxy-long-sleeve-tee,,,White,,XLarge,,,PP102008WHTXLarge,upc:841949128628; ns-pid:PP102008WHTXLarge
-parks-peace-womens-boxy-long-sleeve-tee,,,White,,XXLarge,,,PP102008WHTXXLarge,upc:841949128635; ns-pid:PP102008WHTXXLarge
-yosemite-1994-womens-crop-top,Yosemite 1994 Women's Crop Top,Color,Turquoise,Size,XSmall,,,YS101006TURXSmall,upc:841949128468; ns-pid:YS101006TURXSmall
-yosemite-1994-womens-crop-top,,,Turquoise,,Small,,,YS101006TURSmall,upc:841949128475; ns-pid:YS101006TURSmall
-yosemite-1994-womens-crop-top,,,Turquoise,,Medium,,,YS101006TURMedium,upc:841949128482; ns-pid:YS101006TURMedium
-yosemite-1994-womens-crop-top,,,Turquoise,,Large,,,YS101006TURLarge,upc:841949128499; ns-pid:YS101006TURLarge
-yosemite-1994-womens-crop-top,,,Turquoise,,XLarge,,,YS101006TURXLarge,upc:841949128505; ns-pid:YS101006TURXLarge
-yosemite-1994-womens-crop-top,,,Turquoise,,XXLarge,,,YS101006TURXXLarge,upc:841949128512; ns-pid:YS101006TURXXLarge
-tahoe-faded-womens-crop-top,Tahoe Faded Women's Crop Top,Color,Natural,Size,XSmall,,,TA101003NATXSmall,upc:841949128338; ns-pid:TA101003NATXSmall
-tahoe-faded-womens-crop-top,,,Natural,,Small,,,TA101003NATSmall,upc:841949128345; ns-pid:TA101003NATSmall
-tahoe-faded-womens-crop-top,,,Natural,,Medium,,,TA101003NATMedium,upc:841949128352; ns-pid:TA101003NATMedium
-tahoe-faded-womens-crop-top,,,Natural,,Large,,,TA101003NATLarge,upc:841949128369; ns-pid:TA101003NATLarge
-tahoe-faded-womens-crop-top,,,Natural,,XLarge,,,TA101003NATXLarge,upc:841949128376; ns-pid:TA101003NATXLarge
-tahoe-faded-womens-crop-top,,,Natural,,XXLarge,,,TA101003NATXXLarge,upc:841949128383; ns-pid:TA101003NATXXLarge
-visit-olympic-mt-olympus-tee,Visit Olympic Mt Olympus Tee,Color,Blue,Size,XSmall,,,OL001003BLUXSmall,upc:841949127492; ns-pid:OL001003BLUXSmall
-visit-olympic-mt-olympus-tee,,,Blue,,Small,,,OL001003BLUSmall,upc:841949127508; ns-pid:OL001003BLUSmall
-visit-olympic-mt-olympus-tee,,,Blue,,Medium,,,OL001003BLUMedium,upc:841949127515; ns-pid:OL001003BLUMedium
-visit-olympic-mt-olympus-tee,,,Blue,,Large,,,OL001003BLULarge,upc:841949127522; ns-pid:OL001003BLULarge
-visit-olympic-mt-olympus-tee,,,Blue,,XLarge,,,OL001003BLUXLarge,upc:841949127539; ns-pid:OL001003BLUXLarge
-visit-olympic-mt-olympus-tee,,,Blue,,XXLarge,,,OL001003BLUXXLarge,upc:841949127546; ns-pid:OL001003BLUXXLarge
-visit-olympic-mt-olympus-tee,,,Blue,,XXXLarge,,,OL001003BLUXXXLarge,upc:841949127553; ns-pid:OL001003BLUXXXLarge
-crater-lake-infograph-tee,Crater Lake Infograph Tee,Color,White,Size,XSmall,,,CL001001WHTXSmall,upc:841949127423; ns-pid:CL001001WHTXSmall
-crater-lake-infograph-tee,,,White,,Small,,,CL001001WHTSmall,upc:841949127430; ns-pid:CL001001WHTSmall
-crater-lake-infograph-tee,,,White,,Medium,,,CL001001WHTMedium,upc:841949127447; ns-pid:CL001001WHTMedium
-crater-lake-infograph-tee,,,White,,Large,,,CL001001WHTLarge,upc:841949127454; ns-pid:CL001001WHTLarge
-crater-lake-infograph-tee,,,White,,XLarge,,,CL001001WHTXLarge,upc:841949127461; ns-pid:CL001001WHTXLarge
-crater-lake-infograph-tee,,,White,,XXLarge,,,CL001001WHTXXLarge,upc:841949127478; ns-pid:CL001001WHTXXLarge
-grand-teton-tie-dye-tee,Grand Teton Tie Dye Tee,Color,Tie Dye,Size,XSmall,,,GT001004TIEXSmall,upc:841949127355; ns-pid:GT001004TIEXSmall
-grand-teton-tie-dye-tee,,,Tie Dye,,Small,,,GT001004TIESmall,upc:841949127362; ns-pid:GT001004TIESmall
-grand-teton-tie-dye-tee,,,Tie Dye,,Medium,,,GT001004TIEMedium,upc:841949127379; ns-pid:GT001004TIEMedium
-grand-teton-tie-dye-tee,,,Tie Dye,,Large,,,GT001004TIELarge,upc:841949127386; ns-pid:GT001004TIELarge
-grand-teton-tie-dye-tee,,,Tie Dye,,XLarge,,,GT001004TIEXLarge,upc:841949127393; ns-pid:GT001004TIEXLarge
-grand-teton-tie-dye-tee,,,Tie Dye,,XXLarge,,,GT001004TIEXXLarge,upc:841949127409; ns-pid:GT001004TIEXXLarge
-grand-teton-tie-dye-tee,,,Tie Dye,,XXXLarge,,,GT001004TIEXXXLarge,upc:841949127416; ns-pid:GT001004TIEXXXLarge
-rocky-sunrise-ringer-tee,Rocky Sunrise Ringer Tee,Color,White And Royal Blue,Size,XSmall,,,RM001005WHROBUXSmall,upc:841949127287; ns-pid:RM001005WHROBUXSmall
-rocky-sunrise-ringer-tee,,,White And Royal Blue,,Small,,,RM001005WHROBUSmall,upc:841949127294; ns-pid:RM001005WHROBUSmall
-rocky-sunrise-ringer-tee,,,White And Royal Blue,,Medium,,,RM001005WHROBUMedium,upc:841949127300; ns-pid:RM001005WHROBUMedium
-rocky-sunrise-ringer-tee,,,White And Royal Blue,,Large,,,RM001005WHROBULarge,upc:841949127317; ns-pid:RM001005WHROBULarge
-rocky-sunrise-ringer-tee,,,White And Royal Blue,,XLarge,,,RM001005WHROBUXLarge,upc:841949127324; ns-pid:RM001005WHROBUXLarge
-rocky-sunrise-ringer-tee,,,,,,,,,
-adventure-responsibly-ringer-tee,Adventure Responsibly Ringer Tee,Color,White And Royal Blue,Size,XSmall,,,PP001053WHROBUXSmall,upc:841949127218; ns-pid:PP001053WHROBUXSmall
-adventure-responsibly-ringer-tee,,,White And Royal Blue,,Small,,,PP001053WHROBUSmall,upc:841949127225; ns-pid:PP001053WHROBUSmall
-adventure-responsibly-ringer-tee,,,White And Royal Blue,,Medium,,,PP001053WHROBUMedium,upc:841949127232; ns-pid:PP001053WHROBUMedium
-adventure-responsibly-ringer-tee,,,White And Royal Blue,,Large,,,PP001053WHROBULarge,upc:841949127249; ns-pid:PP001053WHROBULarge
-adventure-responsibly-ringer-tee,,,White And Royal Blue,,XLarge,,,PP001053WHROBUXLarge,upc:841949127256; ns-pid:PP001053WHROBUXLarge
-adventure-responsibly-ringer-tee,,,,,,,,,
-shroom-cropped-crewneck-sweatshirt,Shroom Women's Cropped Crewneck Sweatshirt,Color,Purple,Size,XSmall,,,PP107004PURXSmall,upc:841949124606; ns-pid:PP107004PURXSmall
-shroom-cropped-crewneck-sweatshirt,,,Purple,,Small,,,PP107004PURSmall,upc:841949124613; ns-pid:PP107004PURSmall
-shroom-cropped-crewneck-sweatshirt,,,Purple,,Medium,,,PP107004PURMedium,upc:841949124620; ns-pid:PP107004PURMedium
-shroom-cropped-crewneck-sweatshirt,,,Purple,,Large,,,PP107004PURLarge,upc:841949124637; ns-pid:PP107004PURLarge
-shroom-cropped-crewneck-sweatshirt,,,Purple,,XLarge,,,PP107004PURXLarge,upc:841949124644; ns-pid:PP107004PURXLarge
-shroom-cropped-crewneck-sweatshirt,,,Purple,,XXLarge,,,PP107004PURXXLarge,upc:841949124651; ns-pid:PP107004PURXXLarge
-shroom-cropped-crewneck-sweatshirt,,,,,,,,,
-shroom-cropped-crewneck-sweatshirt,,,,,,,,,
-shroom-cropped-crewneck-sweatshirt,,,,,,,,,
-happy-mountain-joggers,Happy Mountain Women's Joggers,Color,Cream,Size,XSmall,,,PP114003CRMXSmall,upc:841949126570; ns-pid:PP114003CRMXSmall
-happy-mountain-joggers,,,Cream,,Small,,,PP114003CRMSmall,upc:841949126587; ns-pid:PP114003CRMSmall
-happy-mountain-joggers,,,Cream,,Medium,,,PP114003CRMMedium,upc:841949126594; ns-pid:PP114003CRMMedium
-happy-mountain-joggers,,,Cream,,Large,,,PP114003CRMLarge,upc:841949126600; ns-pid:PP114003CRMLarge
-happy-mountain-joggers,,,Cream,,XLarge,,,PP114003CRMXLarge,upc:841949126617; ns-pid:PP114003CRMXLarge
-happy-mountain-joggers,,,Cream,,XXLarge,,,PP114003CRMXXLarge,upc:841949130331; ns-pid:PP114003CRMXXLarge
-happy-mountain-joggers,,,,,,,,,
-happy-mountain-joggers,,,,,,,,,
-happy-mountain-joggers,,,,,,,,,
-happy-mountain-joggers,,,,,,,,,
-happy-mountain-cropped-crewneck-sweatshirt,Happy Mountain Women's Cropped Crewneck Sweatshirt,Color,Cream,Size,XSmall,,,PP107005CRMXSmall,upc:841949126525; ns-pid:PP107005CRMXSmall
-happy-mountain-cropped-crewneck-sweatshirt,,,Cream,,Small,,,PP107005CRMSmall,upc:841949126532; ns-pid:PP107005CRMSmall
-happy-mountain-cropped-crewneck-sweatshirt,,,Cream,,Medium,,,PP107005CRMMedium,upc:841949126549; ns-pid:PP107005CRMMedium
-happy-mountain-cropped-crewneck-sweatshirt,,,Cream,,Large,,,PP107005CRMLarge,upc:841949126556; ns-pid:PP107005CRMLarge
-happy-mountain-cropped-crewneck-sweatshirt,,,Cream,,XLarge,,,PP107005CRMXLarge,upc:841949126563; ns-pid:PP107005CRMXLarge
-happy-mountain-cropped-crewneck-sweatshirt,,,Cream,,XXLarge,,,PP107005CRMXXLarge,upc:841949130324; ns-pid:PP107005CRMXXLarge
-happy-sunset-joggers,Happy Sunset Joggers,Color,Blue,Size,XSmall,,,PP014003BLUXSmall,upc:841949126457; ns-pid:PP014003BLUXSmall
-happy-sunset-joggers,,,Blue,,Small,,,PP014003BLUSmall,upc:841949126464; ns-pid:PP014003BLUSmall
-happy-sunset-joggers,,,Blue,,Medium,,,PP014003BLUMedium,upc:841949126471; ns-pid:PP014003BLUMedium
-happy-sunset-joggers,,,Blue,,Large,,,PP014003BLULarge,upc:841949126488; ns-pid:PP014003BLULarge
-happy-sunset-joggers,,,Blue,,XLarge,,,PP014003BLUXLarge,upc:841949126495; ns-pid:PP014003BLUXLarge
-happy-sunset-joggers,,,Blue,,XXLarge,,,PP014003BLUXXLarge,upc:841949126501; ns-pid:PP014003BLUXXLarge
-happy-sunset-joggers,,,Blue,,XXXLarge,,,PP014003BLUXXXLarge,upc:841949126518; ns-pid:PP014003BLUXXXLarge
-happy-sunset-hooded-sweatshirt,Happy Sunset Hooded Sweatshirt,Color,Blue,Size,XSmall,,,PP008007BLUXSmall,upc:841949125962; ns-pid:PP008007BLUXSmall
-happy-sunset-hooded-sweatshirt,,,Blue,,Small,,,PP008007BLUSmall,upc:841949125979; ns-pid:PP008007BLUSmall
-happy-sunset-hooded-sweatshirt,,,Blue,,Medium,,,PP008007BLUMedium,upc:841949125986; ns-pid:PP008007BLUMedium
-happy-sunset-hooded-sweatshirt,,,Blue,,Large,,,PP008007BLULarge,upc:841949125993; ns-pid:PP008007BLULarge
-happy-sunset-hooded-sweatshirt,,,Blue,,XLarge,,,PP008007BLUXLarge,upc:841949126006; ns-pid:PP008007BLUXLarge
-happy-sunset-hooded-sweatshirt,,,Blue,,XXLarge,,,PP008007BLUXXLarge,upc:841949126013; ns-pid:PP008007BLUXXLarge
-happy-sunset-hooded-sweatshirt,,,Blue,,XXXLarge,,,PP008007BLUXXXLarge,upc:841949126020; ns-pid:PP008007BLUXXXLarge
-tahoe-zoom-tie-dye-crewneck-sweatshirt,Tahoe Zoom Tie Dye Crewneck Sweatshirt,Color,Tie Dye,Size,XSmall,,,TA007002TIEXSmall,upc:841949125894; ns-pid:TA007002TIEXSmall
-tahoe-zoom-tie-dye-crewneck-sweatshirt,,,Tie Dye,,Small,,,TA007002TIESmall,upc:841949125900; ns-pid:TA007002TIESmall
-tahoe-zoom-tie-dye-crewneck-sweatshirt,,,Tie Dye,,Medium,,,TA007002TIEMedium,upc:841949125917; ns-pid:TA007002TIEMedium
-tahoe-zoom-tie-dye-crewneck-sweatshirt,,,Tie Dye,,Large,,,TA007002TIELarge,upc:841949125924; ns-pid:TA007002TIELarge
-tahoe-zoom-tie-dye-crewneck-sweatshirt,,,Tie Dye,,XLarge,,,TA007002TIEXLarge,upc:841949125931; ns-pid:TA007002TIEXLarge
-tahoe-zoom-tie-dye-crewneck-sweatshirt,,,Tie Dye,,XXLarge,,,TA007002TIEXXLarge,upc:841949125948; ns-pid:TA007002TIEXXLarge
-christmas-fir-body-wash,Christmas Fir Body Wash,Color,Multi Color,Size,One Size,,,PP402029MLTOne Size,upc:841949131871; ns-pid:PP402029MLTOne Size
-parks-project-x-outdoor-afro-empowered-in-nature-bucket-hat,Outdoor Afro x Parks Project: Empowered in Nature Bucket Hat,Color,Green,Size,One Size,,,PP304004GRNOne Size,upc:841949130348; ns-pid:PP304004GRNOne Size
-parks-project-x-outdoor-afro-empowered-in-nature-bucket-hat,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-bucket-hat,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-bucket-hat,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-bucket-hat,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-bucket-hat,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,Outdoor Afro x Parks Project: Empowered in Nature Tee,Color,White,Size,XSmall,,,PP001052WHTXSmall,upc:841949127140; ns-pid:PP001052WHTXSmall
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,White,,Small,,,PP001052WHTSmall,upc:841949127157; ns-pid:PP001052WHTSmall
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,White,,Medium,,,PP001052WHTMedium,upc:841949127164; ns-pid:PP001052WHTMedium
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,White,,Large,,,PP001052WHTLarge,upc:841949127171; ns-pid:PP001052WHTLarge
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,White,,XLarge,,,PP001052WHTXLarge,upc:841949127188; ns-pid:PP001052WHTXLarge
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,White,,XXLarge,,,PP001052WHTXXLarge,upc:841949127195; ns-pid:PP001052WHTXXLarge
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,White,,XXXLarge,,,PP001052WHTXXXLarge,upc:841949127201; ns-pid:PP001052WHTXXXLarge
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-parks-project-x-outdoor-afro-empowered-in-nature-tee,,,,,,,,,
-oceans-pillowcase,Oceans Pillowcase,Color,Blue,Size,One Size,,,PP402023BLUOne Size,upc:841949128895; ns-pid:PP402023BLUOne Size
-oceans-pillowcase,,,,,,,,,
-oceans-pillowcase,,,,,,,,,
-oceans-pillowcase,,,,,,,,,
-desert-pillowcase-1,Desert Pillowcase,Color,Mustard,Size,One Size,,,PP402022MUSOne Size,upc:841949128888; ns-pid:PP402022MUSOne Size
-desert-pillowcase-1,,,,,,,,,
-desert-pillowcase-1,,,,,,,,,
-desert-pillowcase-1,,,,,,,,,
-forest-pillowcase,Forest Pillowcase,Color,Black,Size,One Size,,,PP402021BLKOne Size,upc:841949128871; ns-pid:PP402021BLKOne Size
-forest-pillowcase,,,,,,,,,
-forest-pillowcase,,,,,,,,,
-forest-pillowcase,,,,,,,,,
-mountains-pillowcase,Mountains Pillowcase,Color,Terracotta,Size,One Size,,,PP402020TEROne Size,upc:841949128864; ns-pid:PP402020TEROne Size
-mountains-pillowcase,,,,,,,,,
-mountains-pillowcase,,,,,,,,,
-mountains-pillowcase,,,,,,,,,
-mountain-handmade-ceramic-pot,Mountain Handmade Ceramic Pot,Color,Multi Color,Size,One Size,,,PP402028MLTOne Size,upc:841949130508; ns-pid:PP402028MLTOne Size
-mountain-handmade-ceramic-pot,,,,,,,,,
-mountain-handmade-ceramic-pot,,,,,,,,,
-mountain-handmade-ceramic-pot,,,,,,,,,
-mountain-handmade-ceramic-pot,,,,,,,,,
-desert-handmade-ceramic-pot,Desert Handmade Ceramic Pot,Color,Multi Color,Size,One Size,,,PP402027MLTOne Size,upc:841949130492; ns-pid:PP402027MLTOne Size
-desert-handmade-ceramic-pot,,,,,,,,,
-desert-handmade-ceramic-pot,,,,,,,,,
-desert-handmade-ceramic-pot,,,,,,,,,
-desert-handmade-ceramic-pot,,,,,,,,,
-parks-let-me-count-the-ways-panel-hat,Parks Let Me Count the Ways Panel Hat,Color,Brown,Size,One Size,,,PP301009BRNOne Size,upc:841949128673; ns-pid:PP301009BRNOne Size
-parks-let-me-count-the-ways-panel-hat,,,,,,,,,
-parks-let-me-count-the-ways-panel-hat,,,,,,,,,
-parks-let-me-count-the-ways-panel-hat,,,,,,,,,
-hikers-do-it-by-the-mile-womens-boxy-tee,Hikers Do it By the Mile Women's Boxy Tee,Color,Yellow,Size,XSmall,,,PP101025YELXSmall,upc:841949128529; ns-pid:PP101025YELXSmall
-hikers-do-it-by-the-mile-womens-boxy-tee,,,Yellow,,Small,,,PP101025YELSmall,upc:841949128536; ns-pid:PP101025YELSmall
-hikers-do-it-by-the-mile-womens-boxy-tee,,,Yellow,,Medium,,,PP101025YELMedium,upc:841949128543; ns-pid:PP101025YELMedium
-hikers-do-it-by-the-mile-womens-boxy-tee,,,Yellow,,Large,,,PP101025YELLarge,upc:841949128550; ns-pid:PP101025YELLarge
-hikers-do-it-by-the-mile-womens-boxy-tee,,,Yellow,,XLarge,,,PP101025YELXLarge,upc:841949128567; ns-pid:PP101025YELXLarge
-hikers-do-it-by-the-mile-womens-boxy-tee,,,Yellow,,XXLarge,,,PP101025YELXXLarge,upc:841949128574; ns-pid:PP101025YELXXLarge
-hikers-do-it-by-the-mile-tie-dye-tee,Hikers Do It By The Mile Tie Dye Tee,Color,Tie Dye,Size,XSmall,,,PP001051TIEXSmall,upc:841949127072; ns-pid:PP001051TIEXSmall
-hikers-do-it-by-the-mile-tie-dye-tee,,,Tie Dye,,Small,,,PP001051TIESmall,upc:841949127089; ns-pid:PP001051TIESmall
-hikers-do-it-by-the-mile-tie-dye-tee,,,Tie Dye,,Medium,,,PP001051TIEMedium,upc:841949127096; ns-pid:PP001051TIEMedium
-hikers-do-it-by-the-mile-tie-dye-tee,,,Tie Dye,,Large,,,PP001051TIELarge,upc:841949127102; ns-pid:PP001051TIELarge
-hikers-do-it-by-the-mile-tie-dye-tee,,,Tie Dye,,XLarge,,,PP001051TIEXLarge,upc:841949127119; ns-pid:PP001051TIEXLarge
-hikers-do-it-by-the-mile-tie-dye-tee,,,Tie Dye,,XXLarge,,,PP001051TIEXXLarge,upc:841949127126; ns-pid:PP001051TIEXXLarge
-hikers-do-it-by-the-mile-tie-dye-tee,,,Tie Dye,,XXXLarge,,,PP001051TIEXXXLarge,upc:841949127133; ns-pid:PP001051TIEXXXLarge
-let-me-count-the-ways-long-sleeve-tee,Let Me Count the Ways Long Sleeve Tee,Color,White,Size,Small,,,AP002008WHTSmall,upc:841949126945; ns-pid:AP002008WHTSmall
-let-me-count-the-ways-long-sleeve-tee,,,White,,Medium,,,AP002008WHTMedium,upc:841949126952; ns-pid:AP002008WHTMedium
-let-me-count-the-ways-long-sleeve-tee,,,White,,Large,,,AP002008WHTLarge,upc:841949126969; ns-pid:AP002008WHTLarge
-let-me-count-the-ways-long-sleeve-tee,,,White,,XLarge,,,AP002008WHTXLarge,upc:841949126976; ns-pid:AP002008WHTXLarge
-let-me-count-the-ways-long-sleeve-tee,,,White,,XXLarge,,,AP002008WHTXXLarge,upc:841949126983; ns-pid:AP002008WHTXXLarge
-let-me-count-the-ways-long-sleeve-tee,,,White,,XXXLarge,,,AP002008WHTXXXLarge,upc:841949126990; ns-pid:AP002008WHTXXXLarge
-tree-huggers-make-better-lovers-ringer-tee,Tree Huggers Make Better Lovers Ringer Tee,Color,Natural And Black,Size,XSmall,,,PP001050NATBKXSmall,upc:841949127003; ns-pid:PP001050NATBKXSmall
-tree-huggers-make-better-lovers-ringer-tee,,,Natural And Black,,Small,,,PP001050NATBKSmall,upc:841949127010; ns-pid:PP001050NATBKSmall
-tree-huggers-make-better-lovers-ringer-tee,,,Natural And Black,,Medium,,,PP001050NATBKMedium,upc:841949127027; ns-pid:PP001050NATBKMedium
-tree-huggers-make-better-lovers-ringer-tee,,,Natural And Black,,Large,,,PP001050NATBKLarge,upc:841949127034; ns-pid:PP001050NATBKLarge
-tree-huggers-make-better-lovers-ringer-tee,,,Natural And Black,,XLarge,,,PP001050NATBKXLarge,upc:841949127041; ns-pid:PP001050NATBKXLarge
-tree-huggers-make-better-lovers-ringer-tee,,,,,,,,,
-tree-huggers-make-better-lovers-ringer-tee,,,,,,,,,
-tree-huggers-make-better-lovers-mug,Tree Huggers Make Better Lovers Mug,Color,Cream,Size,One Size,,,PP401017CRMOne Size,upc:841949128765; ns-pid:PP401017CRMOne Size
-tree-huggers-make-better-lovers-mug,,,,,,,,,
-tree-hugger-crewneck-sweatshirt,Tree Hugger Crewneck Sweatshirt,Color,Navy,Size,XSmall,,,PP007007NVYXSmall,upc:841949126037; ns-pid:PP007007NVYXSmall
-tree-hugger-crewneck-sweatshirt,,,Navy,,Small,,,PP007007NVYSmall,upc:841949126044; ns-pid:PP007007NVYSmall
-tree-hugger-crewneck-sweatshirt,,,Navy,,Medium,,,PP007007NVYMedium,upc:841949126051; ns-pid:PP007007NVYMedium
-tree-hugger-crewneck-sweatshirt,,,Navy,,Large,,,PP007007NVYLarge,upc:841949126068; ns-pid:PP007007NVYLarge
-tree-hugger-crewneck-sweatshirt,,,Navy,,XLarge,,,PP007007NVYXLarge,upc:841949126075; ns-pid:PP007007NVYXLarge
-tree-hugger-crewneck-sweatshirt,,,Navy,,XXLarge,,,PP007007NVYXXLarge,upc:841949126082; ns-pid:PP007007NVYXXLarge
-tree-hugger-crewneck-sweatshirt,,,Navy,,XXXLarge,,,PP007007NVYXXXLarge,ns-pid:PP007007NVYXXXLarge
-tree-hugger-crewneck-sweatshirt,,,,,,,,,
-tree-hugger-crewneck-sweatshirt,,,,,,,,,
-tree-hugger-baseball-cap,Tree Hugger Baseball Cap,Color,Blue,Size,One Size,,,PP304003BLUOne Size,upc:841949128659; ns-pid:PP304003BLUOne Size
-tree-hugger-baseball-cap,,,,,,,,,
-tree-hugger-baseball-cap,,,,,,,,,
-national-parks-of-the-usa-checklist-bandana,National Parks of The USA Checklist Bandana,Color,Multi Color,Size,One Size,,,AP407004MLTOne Size,upc:841949128727; ns-pid:AP407004MLTOne Size
-national-parks-of-the-usa-checklist-bandana,,,Orange,,One Size,,,AP407004 ORA One Size,upc:841949147742; ns-pid:AP407004 ORA One Size
-national-parks-of-the-usa-checklist-bandana,,,,,,,,,
-national-parks-of-the-usa-checklist-bandana,,,,,,,,,
-park-lovers-bumper-sticker-3-pack,Park Lovers Bumper Sticker 3 Pack,Color,Multi Color,Size,One Size,,,PP404012MLTOne Size,upc:841949128949; ns-pid:PP404012MLTOne Size
-park-lovers-bumper-sticker-3-pack,,,,,,,,,
-tree-huggers-gift-box,Tree Huggers Gift Box,Color,Blue,Size,One Size,,,PP412004BLUOne Size,upc:841949128710; ns-pid:PP412004BLUOne Size
-tree-huggers-gift-box,,,,,,,,,
-tree-huggers-gift-box,,,,,,,,,
-tree-huggers-gift-box,,,,,,,,,
-tree-huggers-gift-box,,,,,,,,,
-penfield-x-parks-project-bobble-beanie,Penfield x Parks Project Bobble Beanie,Color,Olive,Size,One Size,,,PP307006OLVOne Size,upc:841949104394; ns-pid:PP307006OLVOne Size
-penfield-x-parks-project-bobble-beanie,,,,,,,,,
-penfield-x-parks-project-bobble-beanie,,,,,,,,,
-penfield-x-parks-project-bobble-beanie,,,,,,,,,
-penfield-x-parks-project-bobble-beanie,,,,,,,,,
-penfield-x-parks-project-bonfield-jacket,Penfield x Parks Project Bonfield Jacket,Color,Olive,Size,XSmall,,,PFM113339121007-XS,upc:841949103861; ns-pid:PFM113339121007-XS
-penfield-x-parks-project-bonfield-jacket,,,Olive,,Small,,,PFM113339121007-S,upc:841949103878; ns-pid:PFM113339121007-S
-penfield-x-parks-project-bonfield-jacket,,,Olive,,Medium,,,PFM113339121007-M,upc:841949103885; ns-pid:PFM113339121007-M
-penfield-x-parks-project-bonfield-jacket,,,Olive,,Large,,,PFM113339121007-L,upc:841949103892; ns-pid:PFM113339121007-L
-penfield-x-parks-project-bonfield-jacket,,,Olive,,XLarge,,,PFM113339121007-XL,upc:841949103908; ns-pid:PFM113339121007-XL
-penfield-x-parks-project-bonfield-jacket,,,Olive,,XXLarge,,,PFM113339121007-2XL,upc:841949103915; ns-pid:PFM113339121007-2XL
-penfield-x-parks-project-bonfield-jacket,,,,,,,,,
-penfield-x-parks-project-pacjack,Penfield x Parks Project Pac Jac,Color,Navy,Size,XSmall,,,PFM113340121007-XS,upc:841949104110; ns-pid:PFM113340121007-XS
-penfield-x-parks-project-pacjack,,,Navy,,Small,,,PFM113340121007-S,upc:841949104127; ns-pid:PFM113340121007-S
-penfield-x-parks-project-pacjack,,,Navy,,Medium,,,PFM113340121007-M,upc:841949104134; ns-pid:PFM113340121007-M
-penfield-x-parks-project-pacjack,,,Navy,,Large,,,PFM113340121007-L,upc:841949104141; ns-pid:PFM113340121007-L
-penfield-x-parks-project-pacjack,,,Navy,,XLarge,,,PFM113340121007-XL,upc:841949104158; ns-pid:PFM113340121007-XL
-penfield-x-parks-project-pacjack,,,Navy,,XXLarge,,,PFM113340121007-2XL,upc:841949104165; ns-pid:PFM113340121007-2XL
-penfield-x-parks-project-pacjack,,,,,,,,,
-penfield-x-parks-project-pacjack,,,,,,,,,
-penfield-x-parks-project-pacjack,,,,,,,,,
-penfield-x-parks-project-pacjack,,,,,,,,,
-vintage-fall-in-jackson-hole-crewneck,Vintage Fall in Jackson Hole Crewneck,Color,Blue,Size,Small,,,VINTAGE2682BLUSmall,upc:841949132335; ns-pid:VINTAGE2682BLUSmall
-vintage-silver-bay-tee,Vintage Silver Bay Tee,Color,Blue,Size,Small,,,VINTAGE2681BLUSmall,upc:841949132328; ns-pid:VINTAGE2681BLUSmall
-vintage-moose-in-yellowstone-crewneck,Vintage Moose In Yellowstone Crewneck,Color,Turquoise,Size,Medium,,,VINTAGE2680TURMedium,upc:841949132311; ns-pid:VINTAGE2680TURMedium
-vintage-white-mountains-tee,Vintage White Mountains Tee,Color,Purple,Size,Small,,,VINTAGE2679PURSmall,upc:841949132304; ns-pid:VINTAGE2679PURSmall
-vintage-woodland-footsteps-tee,Vintage Woodland Footsteps Tee,Color,Blue,Size,XXXLarge,,,VINTAGE2678BLUXXXLarge,upc:841949132298; ns-pid:VINTAGE2678BLUXXXLarge
 vintage-yellowstone-national-park-tee,Vintage Yellowstone National Park Tee,Color,Yellow,Size,Large,,,VINTAGE2677YELLarge,upc:841949132281; ns-pid:VINTAGE2677YELLarge
 vintage-buffalo-tie-dye-tee,Vintage Buffalo Tie Dye Tee,Color,Tie Dye,Size,XLarge,,,VINTAGE2676TIEXLarge,upc:841949132274; ns-pid:VINTAGE2676TIEXLarge
 vintage-wolf-reflection-tie-dye-tee,Vintage Wolf Reflection Tie Dye Tee,Color,Tie Dye,Size,XLarge,,,VINTAGE2675TIEXLarge,upc:841949132267; ns-pid:VINTAGE2675TIEXLarge
@@ -419,3 +135,298 @@ national-parks-of-colorado-poster,National Parks of Colorado Poster,Color,Multi 
 national-parks-of-colorado-poster,,,,,,,,,
 national-parks-of-utah-poster,National Parks of Utah Poster,Color,Multi Color,Size,10.5x14,,,AP402006MLT10.5x14,upc:841949123661; ns-pid:AP402006MLT10.5x14
 national-parks-of-utah-poster,,,,,,,,,
+national-parks-of-california-poster,National Parks of California Poster,Color,Multi Color,Size,10.5x14,,,AP402004MLT10.5x14,upc:841949123647; ns-pid:AP402004MLT10.5x14
+national-parks-of-the-west-blank-notecards,National Parks of the West Blank Notecards,Color,Multi Color,Size,5PK,,,AP402003MLT5PK,upc:841949123630; ns-pid:AP402003MLT5PK
+national-parks-of-the-west-blank-notecards,,,,,,,,,
+national-parks-of-the-west-blank-notecards,,,,,,,,,
+redwood-trail-fleece,Redwood Trail Fleece,Color,Multi Color,Size,XSmall,,,RW010001MLTXSmall,upc:841949118476; ns-pid:RW010001MLTXSmall
+redwood-trail-fleece,,,Multi Color,,Small,,,RW010001MLTSmall,upc:841949118483; ns-pid:RW010001MLTSmall
+redwood-trail-fleece,,,Multi Color,,Medium,,,RW010001MLTMedium,upc:841949118490; ns-pid:RW010001MLTMedium
+redwood-trail-fleece,,,Multi Color,,Large,,,RW010001MLTLarge,upc:841949118506; ns-pid:RW010001MLTLarge
+redwood-trail-fleece,,,Multi Color,,XLarge,,,RW010001MLTXLarge,upc:841949118513; ns-pid:RW010001MLTXLarge
+redwood-trail-fleece,,,Multi Color,,XXLarge,,,RW010001MLTXXLarge,upc:841949118520; ns-pid:RW010001MLTXXLarge
+zion-trail-fleece,Zion Trail Fleece,Color,Multi Color,Size,XSmall,,,ZN010001MLTXSmall,upc:841949118414; ns-pid:ZN010001MLTXSmall
+zion-trail-fleece,,,Multi Color,,Small,,,ZN010001MLTSmall,upc:841949118421; ns-pid:ZN010001MLTSmall
+zion-trail-fleece,,,Multi Color,,Medium,,,ZN010001MLTMedium,upc:841949118438; ns-pid:ZN010001MLTMedium
+zion-trail-fleece,,,Multi Color,,Large,,,ZN010001MLTLarge,upc:841949118445; ns-pid:ZN010001MLTLarge
+zion-trail-fleece,,,Multi Color,,XLarge,,,ZN010001MLTXLarge,upc:841949118452; ns-pid:ZN010001MLTXLarge
+zion-trail-fleece,,,Multi Color,,XXLarge,,,ZN010001MLTXXLarge,upc:841949118469; ns-pid:ZN010001MLTXXLarge
+acadia-recycled-polar-trail-fleece,Acadia Recycled Polar Trail Fleece,Color,Multi Color,Size,XSmall,,,AC010001MLTXSmall,upc:841949118353; ns-pid:AC010001MLTXSmall
+acadia-recycled-polar-trail-fleece,,,Multi Color,,Small,,,AC010001MLTSmall,upc:841949118360; ns-pid:AC010001MLTSmall
+acadia-recycled-polar-trail-fleece,,,Multi Color,,Medium,,,AC010001MLTMedium,upc:841949118377; ns-pid:AC010001MLTMedium
+acadia-recycled-polar-trail-fleece,,,Multi Color,,Large,,,AC010001MLTLarge,upc:841949118384; ns-pid:AC010001MLTLarge
+acadia-recycled-polar-trail-fleece,,,Multi Color,,XLarge,,,AC010001MLTXLarge,upc:841949118391; ns-pid:AC010001MLTXLarge
+acadia-recycled-polar-trail-fleece,,,Multi Color,,XXLarge,,,AC010001MLTXXLarge,upc:841949118407; ns-pid:AC010001MLTXXLarge
+acadia-recycled-polar-trail-fleece,,,,,,,,,
+performance-fleece-jacket,Trail Crew Sherpa Jacket,Color,Black,Size,XSmall,,,PP011001BLKXSmall,upc:841949118292; ns-pid:PP011001BLKXSmall
+performance-fleece-jacket,,,Black,,Small,,,PP011001BLKSmall,upc:841949118308; ns-pid:PP011001BLKSmall
+performance-fleece-jacket,,,Black,,Medium,,,PP011001BLKMedium,upc:841949118315; ns-pid:PP011001BLKMedium
+performance-fleece-jacket,,,Black,,Large,,,PP011001BLKLarge,upc:841949118322; ns-pid:PP011001BLKLarge
+performance-fleece-jacket,,,Black,,XLarge,,,PP011001BLKXLarge,upc:841949118339; ns-pid:PP011001BLKXLarge
+performance-fleece-jacket,,,Black,,XXLarge,,,PP011001BLKXXLarge,upc:841949118346; ns-pid:PP011001BLKXXLarge
+performance-fleece-jacket,,,,,,,,,
+performance-fleece-jacket,,,,,,,,,
+performance-fleece-jacket,,,,,,,,,
+performance-fleece-jacket,,,,,,,,,
+performance-fleece-jacket,,,,,,,,,
+trail-crew-beanie-brown,Trail Crew Beanie,Color,Brown,Size,One Size,,,PP307008BRNOne Size,upc:841949117721; ns-pid:PP307008BRNOne Size
+trail-crew-beanie-brown,,,Green,,One Size,,,PP307008GRNOne Size,upc:841949117707; ns-pid:PP307008GRNOne Size
+trail-crew-beanie-brown,,,Orange,,One Size,,,PP307008ORAOne Size,upc:841949117714; ns-pid:PP307008ORAOne Size
+trail-crew-sock-2-pack,Trail Crew Sock 2 Pack - One Size (old),Color,Multi Color,Size,One Size,,,PP406004MLTOne Size,upc:841949117905; ns-pid:PP406004MLTOne Size
+trail-crew-sock-2-pack,,,White And Blue,,One Size,,,PP406004 WHTBU One Size,upc:841949141818; ns-pid:PP406004 WHTBU One Size
+trail-crew-sock-2-pack,,,White And Gold,,One Size,,,PP406004 WHTGO One Size,upc:841949141825; ns-pid:PP406004 WHTGO One Size
+trail-crew-sock-2-pack,,,,,,,,,
+trail-crew-sock-2-pack,,,,,,,,,
+national-geographic-x-parks-project-tie-dye-sock,National Geographic x Parks Project Tie Dye Socks,Color,Tie Dye,Size,One Size,,,NG406002TIEOne Size,upc:841949117899; ns-pid:NG406002TIEOne Size
+national-geographic-x-parks-project-tie-dye-sock,,,,,,,,,
+national-geographic-x-parks-project-tie-dye-sock,,,,,,,,,
+good-vibes-shroom-beanie,Good Vibes Shrooms Beanie,Color,Multi Color,Size,One Size,,,PP307011MLTOne Size,upc:841949117752; ns-pid:PP307011MLTOne Size
+good-vibes-shroom-beanie,,,Purple,,One Size,,,PP307011PUROne Size,upc:841949145076; ns-pid:PP307011PUROne Size
+good-vibes-shroom-beanie,,,,,,,,,
+good-vibes-shroom-beanie,,,,,,,,,
+parks-tie-dye-beanie,Parks Tie Dye Beanie,Color,Tie Dye,Size,One Size,,,PP307010TIEOne Size,upc:841949117745; ns-pid:PP307010TIEOne Size
+parks-tie-dye-beanie,,,,,,,,,
+parks-tie-dye-beanie,,,,,,,,,
+sun-rise-tie-dye-beanie,Sun Rise Tie Dye Beanie in Yellow,Color,Tie Dye,Size,One Size,,,PP307009TIEOne Size,upc:841949117738; ns-pid:PP307009TIEOne Size
+sun-rise-tie-dye-beanie,,,,,,,,,
+sun-rise-tie-dye-beanie,,,,,,,,,
+big-sur-puff-print-bridges-hoodie,Big Sur Puff Print Bridges Hoodie (OLD),Color,Purple,Size,XSmall,,,BS008001PURXSmall,upc:841949123432; ns-pid:BS008001PURXSmall
+big-sur-puff-print-bridges-hoodie,,,Purple,,Small,,,BS008001PURSmall,upc:841949123449; ns-pid:BS008001PURSmall
+big-sur-puff-print-bridges-hoodie,,,Purple,,Medium,,,BS008001PURMedium,upc:841949123456; ns-pid:BS008001PURMedium
+big-sur-puff-print-bridges-hoodie,,,Purple,,Large,,,BS008001PURLarge,upc:841949123463; ns-pid:BS008001PURLarge
+big-sur-puff-print-bridges-hoodie,,,Purple,,XLarge,,,BS008001PURXLarge,upc:841949123470; ns-pid:BS008001PURXLarge
+big-sur-puff-print-bridges-hoodie,,,Purple,,XXLarge,,,BS008001PURXXLarge,upc:841949123487; ns-pid:BS008001PURXXLarge
+yosemite-puff-print-logo-hoodie,Yosemite Puff Print Logo Hoodie,Color,Forest Green,Size,XSmall,,,YS008003FOGRNXSmall,upc:841949123364; ns-pid:YS008003FOGRNXSmall
+yosemite-puff-print-logo-hoodie,,,Forest Green,,Small,,,YS008003FOGRNSmall,upc:841949123371; ns-pid:YS008003FOGRNSmall
+yosemite-puff-print-logo-hoodie,,,Forest Green,,Medium,,,YS008003FOGRNMedium,upc:841949123388; ns-pid:YS008003FOGRNMedium
+yosemite-puff-print-logo-hoodie,,,Forest Green,,Large,,,YS008003FOGRNLarge,upc:841949123395; ns-pid:YS008003FOGRNLarge
+yosemite-puff-print-logo-hoodie,,,Forest Green,,XLarge,,,YS008003FOGRNXLarge,upc:841949123401; ns-pid:YS008003FOGRNXLarge
+yosemite-puff-print-logo-hoodie,,,Forest Green,,XXLarge,,,YS008003FOGRNXXLarge,upc:841949123418; ns-pid:YS008003FOGRNXXLarge
+yosemite-puff-print-logo-hoodie,,,Forest Green,,XXXLarge,,,YS008003FOGRNXXXLarge,upc:841949123425; ns-pid:YS008003FOGRNXXXLarge
+leave-it-better-smilin-sun-womens-boxy-longsleeve,Leave It Better Smilin Sun Women's Boxy Long Sleeve Tee,Color,Black,Size,XSmall,,,PP102007BLKXSmall,upc:841949124484; ns-pid:PP102007BLKXSmall
+leave-it-better-smilin-sun-womens-boxy-longsleeve,,,Black,,Small,,,PP102007BLKSmall,upc:841949124491; ns-pid:PP102007BLKSmall
+leave-it-better-smilin-sun-womens-boxy-longsleeve,,,Black,,Medium,,,PP102007BLKMedium,upc:841949124507; ns-pid:PP102007BLKMedium
+leave-it-better-smilin-sun-womens-boxy-longsleeve,,,Black,,Large,,,PP102007BLKLarge,upc:841949124514; ns-pid:PP102007BLKLarge
+leave-it-better-smilin-sun-womens-boxy-longsleeve,,,Black,,XLarge,,,PP102007BLKXLarge,upc:841949124521; ns-pid:PP102007BLKXLarge
+yellowstone-geyser-boxy-long-sleeve-tee,Yellowstone Geyser Women's Boxy Long Sleeve Tee,Color,Natural,Size,XSmall,,,YW102001NATXSmall,upc:841949122831; ns-pid:YW102001NATXSmall
+yellowstone-geyser-boxy-long-sleeve-tee,,,Natural,,Small,,,YW102001NATSmall,upc:841949122848; ns-pid:YW102001NATSmall
+yellowstone-geyser-boxy-long-sleeve-tee,,,Natural,,Medium,,,YW102001NATMedium,upc:841949122855; ns-pid:YW102001NATMedium
+yellowstone-geyser-boxy-long-sleeve-tee,,,Natural,,Large,,,YW102001NATLarge,upc:841949122862; ns-pid:YW102001NATLarge
+yellowstone-geyser-boxy-long-sleeve-tee,,,Natural,,XLarge,,,YW102001NATXLarge,upc:841949122879; ns-pid:YW102001NATXLarge
+better-heart-womens-tie-dye-boxy-long-sleeve-tee,Better Heart Women's Boxy Long Sleeve Tee,Color,Orange,Size,XSmall,,,PP102003ORAXSmall,upc:841949122718; ns-pid:PP102003ORAXSmall
+better-heart-womens-tie-dye-boxy-long-sleeve-tee,,,Orange,,Small,,,PP102003ORASmall,upc:841949122725; ns-pid:PP102003ORASmall
+better-heart-womens-tie-dye-boxy-long-sleeve-tee,,,Orange,,Medium,,,PP102003ORAMedium,upc:841949122732; ns-pid:PP102003ORAMedium
+better-heart-womens-tie-dye-boxy-long-sleeve-tee,,,Orange,,Large,,,PP102003ORALarge,upc:841949122749; ns-pid:PP102003ORALarge
+better-heart-womens-tie-dye-boxy-long-sleeve-tee,,,Orange,,XLarge,,,PP102003ORAXLarge,upc:841949122756; ns-pid:PP102003ORAXLarge
+joshua-tree-tortuga-hoodie,Joshua Tree Tortuga Hoodie,Color,Cream,Size,XSmall,,,JT008003CRMXSmall,upc:841949171037; ns-pid:JT008003CRMXSmall
+joshua-tree-tortuga-hoodie,,,Cream,,Small,,,JT008003CRMSmall,upc:841949171044; ns-pid:JT008003CRMSmall
+joshua-tree-tortuga-hoodie,,,Cream,,Medium,,,JT008003CRMMedium,upc:841949171051; ns-pid:JT008003CRMMedium
+joshua-tree-tortuga-hoodie,,,Cream,,Large,,,JT008003CRMLarge,upc:841949171068; ns-pid:JT008003CRMLarge
+joshua-tree-tortuga-hoodie,,,Cream,,XLarge,,,JT008003CRMXLarge,upc:841949171075; ns-pid:JT008003CRMXLarge
+joshua-tree-tortuga-hoodie,,,Cream,,XXLarge,,,JT008003CRMXXLarge,upc:841949171082; ns-pid:JT008003CRMXXLarge
+zion-tie-dye-womens-boxy-tee,Zion Tie Dye Women's Boxy Tee,Color,Tie Dye,Size,XSmall,,,ZN101004TIEXSmall,upc:841949121322; ns-pid:ZN101004TIEXSmall
+zion-tie-dye-womens-boxy-tee,,,Tie Dye,,Small,,,ZN101004TIESmall,upc:841949121339; ns-pid:ZN101004TIESmall
+zion-tie-dye-womens-boxy-tee,,,Tie Dye,,Medium,,,ZN101004TIEMedium,upc:841949121346; ns-pid:ZN101004TIEMedium
+zion-tie-dye-womens-boxy-tee,,,Tie Dye,,Large,,,ZN101004TIELarge,upc:841949121353; ns-pid:ZN101004TIELarge
+zion-tie-dye-womens-boxy-tee,,,Tie Dye,,XLarge,,,ZN101004TIEXLarge,upc:841949121360; ns-pid:ZN101004TIEXLarge
+zion-prickly-pear-hoodie,Zion Prickly Pear Hoodie,Color,Brown,Size,XSmall,,,ZN008002BRNXSmall,upc:841949121957; ns-pid:ZN008002BRNXSmall
+zion-prickly-pear-hoodie,,,Brown,,Small,,,ZN008002BRNSmall,upc:841949121964; ns-pid:ZN008002BRNSmall
+zion-prickly-pear-hoodie,,,Brown,,Medium,,,ZN008002BRNMedium,upc:841949121971; ns-pid:ZN008002BRNMedium
+zion-prickly-pear-hoodie,,,Brown,,Large,,,ZN008002BRNLarge,upc:841949121988; ns-pid:ZN008002BRNLarge
+zion-prickly-pear-hoodie,,,Brown,,XLarge,,,ZN008002BRNXLarge,upc:841949121995; ns-pid:ZN008002BRNXLarge
+zion-prickly-pear-hoodie,,,Brown,,XXLarge,,,ZN008002BRNXXLarge,upc:841949122008; ns-pid:ZN008002BRNXXLarge
+zion-prickly-pear-hoodie,,,Brown,,XXXLarge,,,ZN008002BRNXXXLarge,upc:841949122015; ns-pid:ZN008002BRNXXXLarge
+sierra-club-x-parks-project-explore-enjoy-tie-dye-hoodie,Sierra Club x Parks Project Explore Enjoy Tie Dye Hoodie,Color,Tie Dye,Size,XSmall,,,SC008001TIEXSmall,upc:841949119800; ns-pid:SC008001TIEXSmall
+sierra-club-x-parks-project-explore-enjoy-tie-dye-hoodie,,,Tie Dye,,Small,,,SC008001TIESmall,upc:841949119817; ns-pid:SC008001TIESmall
+sierra-club-x-parks-project-explore-enjoy-tie-dye-hoodie,,,Tie Dye,,Medium,,,SC008001TIEMedium,upc:841949119824; ns-pid:SC008001TIEMedium
+sierra-club-x-parks-project-explore-enjoy-tie-dye-hoodie,,,Tie Dye,,Large,,,SC008001TIELarge,upc:841949119831; ns-pid:SC008001TIELarge
+sierra-club-x-parks-project-explore-enjoy-tie-dye-hoodie,,,Tie Dye,,XLarge,,,SC008001TIEXLarge,upc:841949119848; ns-pid:SC008001TIEXLarge
+sierra-club-x-parks-project-explore-enjoy-tie-dye-hoodie,,,Tie Dye,,XXLarge,,,SC008001TIEXXLarge,upc:841949119855; ns-pid:SC008001TIEXXLarge
+escape-to-nature-hoodie,Escape to Nature Hoodie (old),Color,Slate Blue,Size,XSmall,,,PP008005SLBLUXSmall,upc:841949121810; ns-pid:PP008005SLBLUXSmall
+escape-to-nature-hoodie,,,Slate Blue,,Small,,,PP008005SLBLUSmall,upc:841949121827; ns-pid:PP008005SLBLUSmall
+escape-to-nature-hoodie,,,Slate Blue,,Medium,,,PP008005SLBLUMedium,upc:841949121834; ns-pid:PP008005SLBLUMedium
+escape-to-nature-hoodie,,,Slate Blue,,Large,,,PP008005SLBLULarge,upc:841949121841; ns-pid:PP008005SLBLULarge
+escape-to-nature-hoodie,,,Slate Blue,,XLarge,,,PP008005SLBLUXLarge,upc:841949121858; ns-pid:PP008005SLBLUXLarge
+escape-to-nature-hoodie,,,Slate Blue,,XXLarge,,,PP008005SLBLUXXLarge,upc:841949121865; ns-pid:PP008005SLBLUXXLarge
+escape-to-nature-hoodie,,,Slate Blue,,XXXLarge,,,PP008005SLBLUXXXLarge,upc:841949121872; ns-pid:PP008005SLBLUXXXLarge
+sierra-club-x-parks-project-protect-the-future-tie-dye-long-sleeve-tee,Sierra Club x Parks Project Protect the Future Tie Dye Long Sleeve Tee,Color,Tie Dye,Size,Small,,,SC002001TIESmall,upc:841949120059; ns-pid:SC002001TIESmall
+sierra-club-x-parks-project-protect-the-future-tie-dye-long-sleeve-tee,,,Tie Dye,,Medium,,,SC002001TIEMedium,upc:841949120066; ns-pid:SC002001TIEMedium
+sierra-club-x-parks-project-protect-the-future-tie-dye-long-sleeve-tee,,,Tie Dye,,Large,,,SC002001TIELarge,upc:841949120073; ns-pid:SC002001TIELarge
+sierra-club-x-parks-project-protect-the-future-tie-dye-long-sleeve-tee,,,Tie Dye,,XLarge,,,SC002001TIEXLarge,upc:841949120080; ns-pid:SC002001TIEXLarge
+sierra-club-x-parks-project-protect-the-future-tie-dye-long-sleeve-tee,,,Tie Dye,,XXLarge,,,SC002001TIEXXLarge,upc:841949120097; ns-pid:SC002001TIEXXLarge
+globetrotter-raglan,Globetrotter Women's Boxy Baseball Tee,Color,White And Red,Size,XSmall,,,PP106002WHTRDXSmall,upc:841949124989; ns-pid:PP106002WHTRDXSmall
+globetrotter-raglan,,,White And Red,,Small,,,PP106002WHTRDSmall,upc:841949124996; ns-pid:PP106002WHTRDSmall
+globetrotter-raglan,,,White And Red,,Medium,,,PP106002WHTRDMedium,upc:841949125009; ns-pid:PP106002WHTRDMedium
+globetrotter-raglan,,,White And Red,,Large,,,PP106002WHTRDLarge,upc:841949125016; ns-pid:PP106002WHTRDLarge
+globetrotter-raglan,,,White And Red,,XLarge,,,PP106002WHTRDXLarge,upc:841949125023; ns-pid:PP106002WHTRDXLarge
+globetrotter-raglan,,,,,,,,,
+american-prairie-reserve-buffalo-tee,American Prairie Buffalo Tee,Color,Vintage Black,Size,XSmall,,,AR001001VNBLKXSmall,upc:841949121254; ns-pid:AR001001VNBLKXSmall
+american-prairie-reserve-buffalo-tee,,,Vintage Black,,Small,,,AR001001VNBLKSmall,upc:841949121261; ns-pid:AR001001VNBLKSmall
+american-prairie-reserve-buffalo-tee,,,Vintage Black,,Medium,,,AR001001VNBLKMedium,upc:841949121278; ns-pid:AR001001VNBLKMedium
+american-prairie-reserve-buffalo-tee,,,Vintage Black,,Large,,,AR001001VNBLKLarge,upc:841949121285; ns-pid:AR001001VNBLKLarge
+american-prairie-reserve-buffalo-tee,,,Vintage Black,,XLarge,,,AR001001VNBLKXLarge,upc:841949121292; ns-pid:AR001001VNBLKXLarge
+american-prairie-reserve-buffalo-tee,,,Vintage Black,,XXLarge,,,AR001001VNBLKXXLarge,upc:841949121308; ns-pid:AR001001VNBLKXXLarge
+national-park-welcome-tee,Welcome to National Parks Tee,Color,White,Size,XSmall,,,AP001009WHTXSmall,upc:841949121186; ns-pid:AP001009WHTXSmall
+national-park-welcome-tee,,,White,,Small,,,AP001009WHTSmall,upc:841949121193; ns-pid:AP001009WHTSmall
+national-park-welcome-tee,,,White,,Medium,,,AP001009WHTMedium,upc:841949121209; ns-pid:AP001009WHTMedium
+national-park-welcome-tee,,,White,,Large,,,AP001009WHTLarge,upc:841949121216; ns-pid:AP001009WHTLarge
+national-park-welcome-tee,,,White,,XLarge,,,AP001009WHTXLarge,upc:841949121223; ns-pid:AP001009WHTXLarge
+national-park-welcome-tee,,,White,,XXLarge,,,AP001009WHTXXLarge,upc:841949121230; ns-pid:AP001009WHTXXLarge
+grand-teton-guides-tee,Grand Teton Guides Tee,Color,Dusty Blue,Size,XSmall,,,GT001003DUBLUXSmall,upc:841949121117; ns-pid:GT001003DUBLUXSmall
+grand-teton-guides-tee,,,Dusty Blue,,Small,,,GT001003DUBLUSmall,upc:841949121124; ns-pid:GT001003DUBLUSmall
+grand-teton-guides-tee,,,Dusty Blue,,Medium,,,GT001003DUBLUMedium,upc:841949121131; ns-pid:GT001003DUBLUMedium
+grand-teton-guides-tee,,,Dusty Blue,,Large,,,GT001003DUBLULarge,upc:841949121148; ns-pid:GT001003DUBLULarge
+grand-teton-guides-tee,,,Dusty Blue,,XLarge,,,GT001003DUBLUXLarge,upc:841949121155; ns-pid:GT001003DUBLUXLarge
+grand-teton-guides-tee,,,Dusty Blue,,XXLarge,,,GT001003DUBLUXXLarge,upc:841949121162; ns-pid:GT001003DUBLUXXLarge
+national-parks-of-utah-long-sleeve-tee,National Parks of Utah Long Sleeve Tee,Color,Orange,Size,Small,,,AP002004 ORA Small,upc:841949147773; ns-pid:AP002004 ORA Small
+national-parks-of-utah-long-sleeve-tee,,,Orange,,Medium,,,AP002004 ORA Medium,upc:841949147780; ns-pid:AP002004 ORA Medium
+national-parks-of-utah-long-sleeve-tee,,,Orange,,Large,,,AP002004 ORA Large,upc:841949147797; ns-pid:AP002004 ORA Large
+national-parks-of-utah-long-sleeve-tee,,,Orange,,XLarge,,,AP002004 ORA XLarge,upc:841949147803; ns-pid:AP002004 ORA XLarge
+national-parks-of-utah-long-sleeve-tee,,,Orange,,XXLarge,,,AP002004 ORA XXLarge,upc:841949147810; ns-pid:AP002004 ORA XXLarge
+escape-to-redwood-tee,Escape to Redwood Tee,Color,Tie Dye,Size,XSmall,,,RW001002TIEXSmall,upc:841949121049; ns-pid:RW001002TIEXSmall
+escape-to-redwood-tee,,,Tie Dye,,Small,,,RW001002TIESmall,upc:841949121056; ns-pid:RW001002TIESmall
+escape-to-redwood-tee,,,Tie Dye,,Medium,,,RW001002TIEMedium,upc:841949121063; ns-pid:RW001002TIEMedium
+escape-to-redwood-tee,,,Tie Dye,,Large,,,RW001002TIELarge,upc:841949121070; ns-pid:RW001002TIELarge
+escape-to-redwood-tee,,,Tie Dye,,XLarge,,,RW001002TIEXLarge,upc:841949121087; ns-pid:RW001002TIEXLarge
+escape-to-redwood-tee,,,Tie Dye,,XXLarge,,,RW001002TIEXXLarge,upc:841949121094; ns-pid:RW001002TIEXXLarge
+zion-prickly-pear-tee,Zion Prickly Pear Tee,Color,Burgundy,Size,XSmall,,,ZN001002BURXSmall,upc:841949120974; ns-pid:ZN001002BURXSmall
+zion-prickly-pear-tee,,,Burgundy,,Small,,,ZN001002BURSmall,upc:841949120981; ns-pid:ZN001002BURSmall
+zion-prickly-pear-tee,,,Burgundy,,Medium,,,ZN001002BURMedium,upc:841949120998; ns-pid:ZN001002BURMedium
+zion-prickly-pear-tee,,,Burgundy,,Large,,,ZN001002BURLarge,upc:841949121001; ns-pid:ZN001002BURLarge
+zion-prickly-pear-tee,,,Burgundy,,XLarge,,,ZN001002BURXLarge,upc:841949121018; ns-pid:ZN001002BURXLarge
+zion-prickly-pear-tee,,,Burgundy,,XXLarge,,,ZN001002BURXXLarge,upc:841949121025; ns-pid:ZN001002BURXXLarge
+feel-the-earth-breath-long-sleeve-tee,Feel the Earth Breathe Long Sleeve Tee,Color,Natural,Size,Small,,,PP002020NATSmall,upc:841949143973; ns-pid:PP002020NATSmall
+feel-the-earth-breath-long-sleeve-tee,,,Natural,,Medium,,,PP002020NATMedium,upc:841949143980; ns-pid:PP002020NATMedium
+feel-the-earth-breath-long-sleeve-tee,,,Natural,,Large,,,PP002020NATLarge,upc:841949143997; ns-pid:PP002020NATLarge
+feel-the-earth-breath-long-sleeve-tee,,,Natural,,XLarge,,,PP002020NATXLarge,upc:841949144000; ns-pid:PP002020NATXLarge
+feel-the-earth-breath-long-sleeve-tee,,,Natural,,XXLarge,,,PP002020NATXXLarge,upc:841949144017; ns-pid:PP002020NATXXLarge
+yellowstones-greatest-hits-tee,Yellowstone's Greatest Hits Tee,Color,Brown,Size,XSmall,,,YW001008BRNXSmall,upc:841949178616; ns-pid:YW001008BRNXSmall
+yellowstones-greatest-hits-tee,,,Brown,,Small,,,YW001008BRNSmall,upc:841949178623; ns-pid:YW001008BRNSmall
+yellowstones-greatest-hits-tee,,,Brown,,Medium,,,YW001008BRNMedium,upc:841949178630; ns-pid:YW001008BRNMedium
+yellowstones-greatest-hits-tee,,,Brown,,Large,,,YW001008BRNLarge,upc:841949178647; ns-pid:YW001008BRNLarge
+yellowstones-greatest-hits-tee,,,Brown,,XLarge,,,YW001008BRNXLarge,upc:841949178654; ns-pid:YW001008BRNXLarge
+yellowstones-greatest-hits-tee,,,Brown,,XXLarge,,,YW001008BRNXXLarge,upc:841949178661; ns-pid:YW001008BRNXXLarge
+joshua-tree-symmetry-long-sleeve-tee,Joshua Tree Symmetry Long Sleeve Tee,Color,Tie Dye,Size,Small,,,JT002001TIESmall,upc:841949121575; ns-pid:JT002001TIESmall
+joshua-tree-symmetry-long-sleeve-tee,,,Tie Dye,,Medium,,,JT002001TIEMedium,upc:841949121582; ns-pid:JT002001TIEMedium
+joshua-tree-symmetry-long-sleeve-tee,,,Tie Dye,,Large,,,JT002001TIELarge,upc:841949121599; ns-pid:JT002001TIELarge
+joshua-tree-symmetry-long-sleeve-tee,,,Tie Dye,,XLarge,,,JT002001TIEXLarge,upc:841949121605; ns-pid:JT002001TIEXLarge
+joshua-tree-symmetry-long-sleeve-tee,,,Tie Dye,,XXLarge,,,JT002001TIEXXLarge,upc:841949121612; ns-pid:JT002001TIEXXLarge
+joshua-tree-symmetry-long-sleeve-tee,,,Tie Dye,,XXXLarge,,,JT002001TIEXXXLarge,upc:841949121629; ns-pid:JT002001TIEXXXLarge
+glaciers-greatest-hits-tee,Glacier's Greatest Hits Ringer,Color,White Green,Size,XSmall,,,GL001002WHTGRXSmall,upc:841949122572; ns-pid:GL001002WHTGRXSmall
+glaciers-greatest-hits-tee,,,White Green,,Small,,,GL001002WHTGRSmall,upc:841949122589; ns-pid:GL001002WHTGRSmall
+glaciers-greatest-hits-tee,,,White Green,,Medium,,,GL001002WHTGRMedium,upc:841949122596; ns-pid:GL001002WHTGRMedium
+glaciers-greatest-hits-tee,,,White Green,,Large,,,GL001002WHTGRLarge,upc:841949122602; ns-pid:GL001002WHTGRLarge
+glaciers-greatest-hits-tee,,,White Green,,XLarge,,,GL001002WHTGRXLarge,upc:841949122619; ns-pid:GL001002WHTGRXLarge
+glaciers-greatest-hits-tee,,,,,,,,,
+badlands-greatest-hits-tee,Badland's Greatest Hits Ringer,Color,White And Black,Size,XSmall,,,BL001001WHTBLKXSmall,upc:841949122503; ns-pid:BL001001WHTBLKXSmall
+badlands-greatest-hits-tee,,,White And Black,,Small,,,BL001001WHTBLKSmall,upc:841949122510; ns-pid:BL001001WHTBLKSmall
+badlands-greatest-hits-tee,,,White And Black,,Medium,,,BL001001WHTBLKMedium,upc:841949122527; ns-pid:BL001001WHTBLKMedium
+badlands-greatest-hits-tee,,,White And Black,,Large,,,BL001001WHTBLKLarge,upc:841949122534; ns-pid:BL001001WHTBLKLarge
+badlands-greatest-hits-tee,,,White And Black,,XLarge,,,BL001001WHTBLKXLarge,upc:841949122541; ns-pid:BL001001WHTBLKXLarge
+badlands-greatest-hits-tee,,,,,,,,,
+national-parks-of-the-usa-checklist-long-sleeve-tee,National Parks of The USA Checklist Long Sleeve Tee,Color,White,Size,Small,,,AP002002 WHT S,upc:841949147438; ns-pid:AP002002 WHT S
+national-parks-of-the-usa-checklist-long-sleeve-tee,,,White,,Medium,,,AP002002 WHT M,upc:841949147445; ns-pid:AP002002 WHT M
+national-parks-of-the-usa-checklist-long-sleeve-tee,,,White,,Large,,,AP002002 WHT L,upc:841949147452; ns-pid:AP002002 WHT L
+national-parks-of-the-usa-checklist-long-sleeve-tee,,,White,,XLarge,,,AP002002 WHT XL,upc:841949147469; ns-pid:AP002002 WHT XL
+national-parks-of-the-usa-checklist-long-sleeve-tee,,,White,,XXLarge,,,AP002002 WHT XXL,upc:841949147476; ns-pid:AP002002 WHT XXL
+national-parks-of-the-usa-checklist-long-sleeve-tee,,,,,,,,,
+national-parks-of-the-usa-checklist-long-sleeve-tee,,,,,,,,,
+olympics-greatest-hits-tee,Olympic's Greatest Hits Ringer,Color,White And Blue,Size,XSmall,,,OL001002WHTBUXSmall,upc:841949122435; ns-pid:OL001002WHTBUXSmall
+olympics-greatest-hits-tee,,,White And Blue,,Small,,,OL001002WHTBUSmall,upc:841949122442; ns-pid:OL001002WHTBUSmall
+olympics-greatest-hits-tee,,,White And Blue,,Medium,,,OL001002WHTBUMedium,upc:841949122459; ns-pid:OL001002WHTBUMedium
+olympics-greatest-hits-tee,,,White And Blue,,Large,,,OL001002WHTBULarge,upc:841949122466; ns-pid:OL001002WHTBULarge
+olympics-greatest-hits-tee,,,White And Blue,,XLarge,,,OL001002WHTBUXLarge,upc:841949122473; ns-pid:OL001002WHTBUXLarge
+olympics-greatest-hits-tee,,,,,,,,,
+sequoias-greatest-hits-tee,Sequoia's Greatest Hits Ringer,Color,White,Size,XSmall,,,SQ001003WHTXSmall,upc:841949122367; ns-pid:SQ001003WHTXSmall
+sequoias-greatest-hits-tee,,,White,,Small,,,SQ001003WHTSmall,upc:841949122374; ns-pid:SQ001003WHTSmall
+sequoias-greatest-hits-tee,,,White,,Medium,,,SQ001003WHTMedium,upc:841949122381; ns-pid:SQ001003WHTMedium
+sequoias-greatest-hits-tee,,,White,,Large,,,SQ001003WHTLarge,upc:841949122398; ns-pid:SQ001003WHTLarge
+sequoias-greatest-hits-tee,,,White,,XLarge,,,SQ001003WHTXLarge,upc:841949122404; ns-pid:SQ001003WHTXLarge
+sequoias-greatest-hits-tee,,,,,,,,,
+yosemites-greatest-hits-tee,Yosemite's Greatest Hits Ringer,Color,White And Gold,Size,XSmall,,,YS001008WHTGOXSmall,upc:841949122299; ns-pid:YS001008WHTGOXSmall
+yosemites-greatest-hits-tee,,,White And Gold,,Small,,,YS001008WHTGOSmall,upc:841949122305; ns-pid:YS001008WHTGOSmall
+yosemites-greatest-hits-tee,,,White And Gold,,Medium,,,YS001008WHTGOMedium,upc:841949122312; ns-pid:YS001008WHTGOMedium
+yosemites-greatest-hits-tee,,,White And Gold,,Large,,,YS001008WHTGOLarge,upc:841949122329; ns-pid:YS001008WHTGOLarge
+yosemites-greatest-hits-tee,,,White And Gold,,XLarge,,,YS001008WHTGOXLarge,upc:841949122336; ns-pid:YS001008WHTGOXLarge
+yosemites-greatest-hits-tee,,,,,,,,,
+sierra-club-x-parks-project-time-for-the-sun-hat,Sierra Club x Parks Project Time for the Sun Hat,Color,Gold,Size,One Size,,,SC309001GOLOne Size,upc:841949120424; ns-pid:SC309001GOLOne Size
+sierra-club-x-parks-project-time-for-the-sun-hat,,,,,,,,,
+sierra-club-x-parks-project-time-for-the-sun-hat,,,,,,,,,
+sierra-club-x-parks-project-vote-enviornment-recycled-tote-bag,Sierra Club x Parks Project Vote Environment Recycled Tote Bag,Color,Natural,Size,One Size,,,SC408001NATOne Size,upc:841949120295; ns-pid:SC408001NATOne Size
+sierra-club-x-parks-project-vote-enviornment-recycled-tote-bag,,,,,,,,,
+sierra-club-x-parks-project-vote-enviornment-recycled-tote-bag,,,,,,,,,
+sierra-club-x-parks-project-trail-tee,Sierra Club x Parks Project Trail Tee,Color,Brown,Size,XSmall,,,SC001004BRNXSmall,upc:841949120233; ns-pid:SC001004BRNXSmall
+sierra-club-x-parks-project-trail-tee,,,Brown,,Small,,,SC001004BRNSmall,upc:841949120240; ns-pid:SC001004BRNSmall
+sierra-club-x-parks-project-trail-tee,,,Brown,,Medium,,,SC001004BRNMedium,upc:841949120257; ns-pid:SC001004BRNMedium
+sierra-club-x-parks-project-trail-tee,,,Brown,,Large,,,SC001004BRNLarge,upc:841949120264; ns-pid:SC001004BRNLarge
+sierra-club-x-parks-project-trail-tee,,,Brown,,XLarge,,,SC001004BRNXLarge,upc:841949120271; ns-pid:SC001004BRNXLarge
+sierra-club-x-parks-project-trail-tee,,,Brown,,XXLarge,,,SC001004BRNXXLarge,upc:841949120288; ns-pid:SC001004BRNXXLarge
+sierra-club-x-parks-project-explore-enjoy-tee,Sierra Club x Parks Project Explore Enjoy Tee,Color,Black,Size,XSmall,,,SC001003BLKXSmall,upc:841949120172; ns-pid:SC001003BLKXSmall
+sierra-club-x-parks-project-explore-enjoy-tee,,,Black,,Small,,,SC001003BLKSmall,upc:841949120189; ns-pid:SC001003BLKSmall
+sierra-club-x-parks-project-explore-enjoy-tee,,,Black,,Medium,,,SC001003BLKMedium,upc:841949120196; ns-pid:SC001003BLKMedium
+sierra-club-x-parks-project-explore-enjoy-tee,,,Black,,Large,,,SC001003BLKLarge,upc:841949120202; ns-pid:SC001003BLKLarge
+sierra-club-x-parks-project-explore-enjoy-tee,,,Black,,XLarge,,,SC001003BLKXLarge,upc:841949120219; ns-pid:SC001003BLKXLarge
+sierra-club-x-parks-project-explore-enjoy-tee,,,Black,,XXLarge,,,SC001003BLKXXLarge,upc:841949120226; ns-pid:SC001003BLKXXLarge
+sierra-club-x-parks-project-people-powered-bucket-hat,Sierra Club x Parks Project People Powered Bucket Hat,Color,Black,Size,One Size,,,SC308001BLKOne Size,upc:841949120165; ns-pid:SC308001BLKOne Size
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-bucket-hat,,,,,,,,,
+sierra-club-x-parks-project-people-powered-boxy-tee,Sierra Club x Parks Project People Powered Women's Boxy Tee,Color,White,Size,XSmall,,,SC101001WHTXSmall,upc:841949120103; ns-pid:SC101001WHTXSmall
+sierra-club-x-parks-project-people-powered-boxy-tee,,,White,,Small,,,SC101001WHTSmall,upc:841949120110; ns-pid:SC101001WHTSmall
+sierra-club-x-parks-project-people-powered-boxy-tee,,,White,,Medium,,,SC101001WHTMedium,upc:841949120127; ns-pid:SC101001WHTMedium
+sierra-club-x-parks-project-people-powered-boxy-tee,,,White,,Large,,,SC101001WHTLarge,upc:841949120134; ns-pid:SC101001WHTLarge
+sierra-club-x-parks-project-people-powered-boxy-tee,,,White,,XLarge,,,SC101001WHTXLarge,upc:841949120141; ns-pid:SC101001WHTXLarge
+sierra-club-x-parks-project-vote-environment-tie-dye-tee,Sierra Club x Parks Project Vote Environment Tie Dye Tee,Color,Tie Dye,Size,XSmall,,,SC001002TIEXSmall,upc:841949119985; ns-pid:SC001002TIEXSmall
+sierra-club-x-parks-project-vote-environment-tie-dye-tee,,,Tie Dye,,Small,,,SC001002TIESmall,upc:841949119992; ns-pid:SC001002TIESmall
+sierra-club-x-parks-project-vote-environment-tie-dye-tee,,,Tie Dye,,Medium,,,SC001002TIEMedium,upc:841949120004; ns-pid:SC001002TIEMedium
+sierra-club-x-parks-project-vote-environment-tie-dye-tee,,,Tie Dye,,Large,,,SC001002TIELarge,upc:841949120011; ns-pid:SC001002TIELarge
+sierra-club-x-parks-project-vote-environment-tie-dye-tee,,,Tie Dye,,XLarge,,,SC001002TIEXLarge,upc:841949120028; ns-pid:SC001002TIEXLarge
+sierra-club-x-parks-project-vote-environment-tie-dye-tee,,,Tie Dye,,XXLarge,,,SC001002TIEXXLarge,upc:841949120035; ns-pid:SC001002TIEXXLarge
+sierra-club-x-parks-project-time-for-the-sun-tee,Sierra Club x Parks Project Time for the Sun Tee,Color,Orange,Size,XSmall,,,SC001001ORAXSmall,upc:841949119923; ns-pid:SC001001ORAXSmall
+sierra-club-x-parks-project-time-for-the-sun-tee,,,Orange,,Small,,,SC001001ORASmall,upc:841949119930; ns-pid:SC001001ORASmall
+sierra-club-x-parks-project-time-for-the-sun-tee,,,Orange,,Medium,,,SC001001ORAMedium,upc:841949119947; ns-pid:SC001001ORAMedium
+sierra-club-x-parks-project-time-for-the-sun-tee,,,Orange,,Large,,,SC001001ORALarge,upc:841949119954; ns-pid:SC001001ORALarge
+sierra-club-x-parks-project-time-for-the-sun-tee,,,Orange,,XLarge,,,SC001001ORAXLarge,upc:841949119961; ns-pid:SC001001ORAXLarge
+sierra-club-x-parks-project-time-for-the-sun-tee,,,Orange,,XXLarge,,,SC001001ORAXXLarge,upc:841949119978; ns-pid:SC001001ORAXXLarge
+national-parks-of-texas-long-sleeve-tee,National Parks of Texas Long Sleeve Tee,Color,Maize Yellow,Size,Small,,,AP002007MAIYESmall,upc:841949145892; ns-pid:AP002007MAIYESmall
+national-parks-of-texas-long-sleeve-tee,,,Maize Yellow,,Medium,,,AP002007MAIYEMedium,upc:841949145908; ns-pid:AP002007MAIYEMedium
+national-parks-of-texas-long-sleeve-tee,,,Maize Yellow,,Large,,,AP002007MAIYELarge,upc:841949145915; ns-pid:AP002007MAIYELarge
+national-parks-of-texas-long-sleeve-tee,,,Maize Yellow,,XLarge,,,AP002007MAIYEXLarge,upc:841949145922; ns-pid:AP002007MAIYEXLarge
+national-parks-of-texas-long-sleeve-tee,,,Maize Yellow,,XXLarge,,,AP002007MAIYEXXLarge,upc:841949145939; ns-pid:AP002007MAIYEXXLarge
+national-parks-of-colorado-long-sleeve-tee,National Parks of Colorado Long Sleeve Tee,Color,Dusty Blue,Size,Small,,,AP002006DUBLUSmall,upc:841949123234; ns-pid:AP002006DUBLUSmall
+national-parks-of-colorado-long-sleeve-tee,,,Dusty Blue,,Medium,,,AP002006DUBLUMedium,upc:841949123241; ns-pid:AP002006DUBLUMedium
+national-parks-of-colorado-long-sleeve-tee,,,Dusty Blue,,Large,,,AP002006DUBLULarge,upc:841949123258; ns-pid:AP002006DUBLULarge
+national-parks-of-colorado-long-sleeve-tee,,,Dusty Blue,,XLarge,,,AP002006DUBLUXLarge,upc:841949123265; ns-pid:AP002006DUBLUXLarge
+national-parks-of-colorado-long-sleeve-tee,,,Dusty Blue,,XXLarge,,,AP002006DUBLUXXLarge,upc:841949123272; ns-pid:AP002006DUBLUXXLarge
+national-parks-of-colorado-long-sleeve-tee,,,Dusty Blue,,XXXLarge,,,AP002006DUBLUXXXLarge,upc:841949123289; ns-pid:AP002006DUBLUXXXLarge
+national-parks-of-colorado-long-sleeve-tee,,,Turquoise,,Small,,,AP002006 TUR Small,upc:841949147834; ns-pid:AP002006 TUR Small
+national-parks-of-colorado-long-sleeve-tee,,,Turquoise,,Medium,,,AP002006 TUR Medium,upc:841949147841; ns-pid:AP002006 TUR Medium
+national-parks-of-colorado-long-sleeve-tee,,,Turquoise,,Large,,,AP002006 TUR Large,upc:841949147858; ns-pid:AP002006 TUR Large
+national-parks-of-colorado-long-sleeve-tee,,,Turquoise,,XLarge,,,AP002006 TUR XLarge,upc:841949147865; ns-pid:AP002006 TUR XLarge
+national-parks-of-colorado-long-sleeve-tee,,,Turquoise,,XXLarge,,,AP002006 TUR XXLarge,upc:841949147872; ns-pid:AP002006 TUR XXLarge
+national-parks-of-colorado-long-sleeve-tee,,,Turquoise,,XXXLarge,,,AP002006 TUR XXXLarge,upc:841949147889; ns-pid:AP002006 TUR XXXLarge
+national-parks-of-washington-long-sleeve-tee,National Parks of Washington Long Sleeve Tee,Color,Purple,Size,Small,,,AP002005PURSmall,upc:841949123166; ns-pid:AP002005PURSmall
+national-parks-of-washington-long-sleeve-tee,,,Purple,,Medium,,,AP002005PURMedium,upc:841949123173; ns-pid:AP002005PURMedium
+national-parks-of-washington-long-sleeve-tee,,,Purple,,Large,,,AP002005PURLarge,upc:841949123180; ns-pid:AP002005PURLarge
+national-parks-of-washington-long-sleeve-tee,,,Purple,,XLarge,,,AP002005PURXLarge,upc:841949123197; ns-pid:AP002005PURXLarge
+national-parks-of-washington-long-sleeve-tee,,,Purple,,XXLarge,,,AP002005PURXXLarge,upc:841949123203; ns-pid:AP002005PURXXLarge
+national-parks-of-washington-long-sleeve-tee,,,Purple,,XXXLarge,,,AP002005PURXXXLarge,upc:841949123210; ns-pid:AP002005PURXXXLarge
+national-parks-of-washington-long-sleeve-tee,,,Steel Blue,,Small,,,AP002005STBLUSmall,upc:841949131031; ns-pid:AP002005STBLUSmall
+national-parks-of-washington-long-sleeve-tee,,,Steel Blue,,Medium,,,AP002005STBLUMedium,upc:841949131048; ns-pid:AP002005STBLUMedium
+national-parks-of-washington-long-sleeve-tee,,,Steel Blue,,Large,,,AP002005STBLULarge,upc:841949131055; ns-pid:AP002005STBLULarge
+national-parks-of-washington-long-sleeve-tee,,,Steel Blue,,XLarge,,,AP002005STBLUXLarge,upc:841949131062; ns-pid:AP002005STBLUXLarge
+national-parks-of-washington-long-sleeve-tee,,,Steel Blue,,XXLarge,,,AP002005STBLUXXLarge,upc:841949131079; ns-pid:AP002005STBLUXXLarge
+jen-e-mountain-ornament,Jen E Mountain Ornament,Color,Multi Color,Size,One Size,,,PP402007MLTOne Size,upc:841949125764; ns-pid:PP402007MLTOne Size
+jen-e-mountain-ornament,,,,,,,,,
+jen-e-mountain-ornament,,,,,,,,,
+jen-e-mushroom-ornament,Jen E Mushroom Ornament,Color,Multi Color,Size,One Size,,,PP402006MLTOne Size,upc:841949125757; ns-pid:PP402006MLTOne Size
+jen-e-mushroom-ornament,,,,,,,,,
+jen-e-mushroom-ornament,,,,,,,,,

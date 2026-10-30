@@ -1,5 +1,4 @@
 Handle,Title,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Barcodes
-cabin-weekend-bundle,Cabin Weekend Bundle,Title,Default Title,,,,,,
 wild-parks-playing-cards,Wild Parks Playing Cards,Color,Multi Color,Size,One Size,,,PP415019MLTOne Size,upc:841949247725; ns-pid:PP415019MLTOne Size
 wild-parks-playing-cards,,,,,,,,,
 wild-parks-playing-cards,,,,,,,,,
@@ -17,22 +16,6 @@ wild-parks-french-press,,,,,,,,,
 wild-parks-french-press,,,,,,,,,
 wild-parks-french-press,,,,,,,,,
 wild-parks-french-press,,,,,,,,,
-cozy-adventure-bundle,Cozy Adventure Bundle,Title,Default Title,,,,,,
-explorer-bundle,Explorer Bundle,Title,Default Title,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
-explorer-bundle,,,,,,,,,
 homesick-x-parks-project-joshua-tree-candle,Homesick x Parks Project Joshua Tree Candle,Color,Sand,Size,One Size,,,PP402131SANOne Size,upc:842750129910; ns-pid:PP402131SANOne Size
 homesick-x-parks-project-joshua-tree-candle,,,,,,,,,
 homesick-x-parks-project-big-sur-candle,Homesick x Parks Project Big Sur Candle,Color,Green,Size,One Size,,,PP402130GRNOne Size,upc:842750129903; ns-pid:PP402130GRNOne Size
@@ -328,15 +311,6 @@ prospect-park-alliance-x-parks-project-patch-hat,,,,,,,,,
 prospect-park-alliance-x-parks-project-patch-hat,,,,,,,,,
 prospect-park-alliance-x-parks-project-patch-hat,,,,,,,,,
 prospect-park-alliance-x-parks-project-patch-hat,,,,,,,,,
-variable-test-3,Variable Test 3,Title,Default Title,,,,,,
-variable-test-3,,,,,,,,,
-variable-test-3,,,,,,,,,
-variable-test-3,,,,,,,,,
-variable-test-3,,,,,,,,,
-variable-test-3,,,,,,,,,
-variable-test-3,,,,,,,,,
-variable-test-3,,,,,,,,,
-variable-test-bundle-1,Variable Test Bundle 1,Title,Default Title,,,,,,
 adventure-with-friends-tote,Adventure with Friends Tote,Color,Multi Color,Size,One Size,,,PP408041MLTOne Size,upc:841949247664; ns-pid:PP408041MLTOne Size
 adventure-with-friends-tote,,,Natural,,One Size,,,PP408041NATOne Size,upc:841949247671; ns-pid:PP408041NATOne Size
 bears-at-camp-packable-camp-chair,Bears at Camp Packable Camp Chair,Color,Natural,Size,One Size,,,PP402095NATOne Size,upc:841949247480; ns-pid:PP402095NATOne Size
@@ -631,3 +605,34 @@ naturalist-club-pocket-tee,,,Blue,,XLarge,,,PP001171BLUXLarge,upc:841949240542; 
 naturalist-club-pocket-tee,,,Blue,,XXLarge,,,PP001171BLUXXLarge,upc:841949240559; ns-pid:PP001171BLUXXLarge
 naturalist-club-pocket-tee,,,Blue,,XXXLarge,,,PP001171BLUXXXLarge,upc:841949240566; ns-pid:PP001171BLUXXXLarge
 naturalist-club-pocket-tee,,,,,,,,,
+naturalist-club-quarter-zip,Naturalist Club Quarter Zip,Color,Earth Brown,Size,XSmall,,,PP010059EABRNXSmall,upc:841949247770; ns-pid:PP010059EABRNXSmall
+naturalist-club-quarter-zip,,,Earth Brown,,Small,,,PP010059EABRNSmall,upc:841949247787; ns-pid:PP010059EABRNSmall
+naturalist-club-quarter-zip,,,Earth Brown,,Medium,,,PP010059EABRNMedium,upc:841949247794; ns-pid:PP010059EABRNMedium
+naturalist-club-quarter-zip,,,Earth Brown,,Large,,,PP010059EABRNLarge,upc:841949247800; ns-pid:PP010059EABRNLarge
+naturalist-club-quarter-zip,,,Earth Brown,,XLarge,,,PP010059EABRNXLarge,upc:841949247817; ns-pid:PP010059EABRNXLarge
+naturalist-club-quarter-zip,,,Earth Brown,,XXLarge,,,PP010059EABRNXXLarge,upc:841949247824; ns-pid:PP010059EABRNXXLarge
+naturalist-club-quarter-zip,,,Earth Brown,,XXXLarge,,,PP010059EABRNXXXLarge,upc:841949247831; ns-pid:PP010059EABRNXXXLarge
+naturalist-club-quarter-zip,,,,,,,,,
+naturalist-club-quarter-zip,,,,,,,,,
+womens-naturalist-club-classic-tee,Women's Naturalist Club Classic Tee,Color,Mustard,Size,XSmall,,,PP123004MUSXSmall,upc:841949242218; ns-pid:PP123004MUSXSmall
+womens-naturalist-club-classic-tee,,,Mustard,,Small,,,PP123004MUSSmall,upc:841949242225; ns-pid:PP123004MUSSmall
+womens-naturalist-club-classic-tee,,,Mustard,,Medium,,,PP123004MUSMedium,upc:841949242232; ns-pid:PP123004MUSMedium
+womens-naturalist-club-classic-tee,,,Mustard,,Large,,,PP123004MUSLarge,upc:841949242249; ns-pid:PP123004MUSLarge
+womens-naturalist-club-classic-tee,,,Mustard,,XLarge,,,PP123004MUSXLarge,upc:841949242256; ns-pid:PP123004MUSXLarge
+womens-naturalist-club-classic-tee,,,Mustard,,XXLarge,,,PP123004MUSXXLarge,upc:841949242263; ns-pid:PP123004MUSXXLarge
+womens-naturalist-club-classic-tee,,,Mustard,,XXXLarge,,,PP123004MUSXXXLarge,upc:841949242270; ns-pid:PP123004MUSXXXLarge
+naturalist-club-trail-crew-sock,Naturalist Club Trail Crew Sock,Color,Violet,Size,XS/S,,,PP406066VLTXS/S,upc:841949240870; ns-pid:PP406066VLTXS/S
+naturalist-club-trail-crew-sock,,,Violet,,M/L,,,PP406066VLTM/L,upc:841949240887; ns-pid:PP406066VLTM/L
+naturalist-club-hat,Naturalist Club Hat,Color,Earth Brown,Size,One Size,,,PP301053EABRNOne Size,upc:841949240856; ns-pid:PP301053EABRNOne Size
+naturalist-club-hat,,,,,,,,,
+naturalist-club-hat,,,,,,,,,
+naturalist-club-hat,,,,,,,,,
+naturalist-club-hat,,,,,,,,,
+naturalist-club-hat,,,,,,,,,
+naturalist-club-boxy-tank,Naturalist Club Boxy Tank,Color,Dusty Violet,Size,XSmall,,,PP003002DUVLTXSmall,upc:841949240368; ns-pid:PP003002DUVLTXSmall
+naturalist-club-boxy-tank,,,Dusty Violet,,Small,,,PP003002DUVLTSmall,upc:841949240375; ns-pid:PP003002DUVLTSmall
+naturalist-club-boxy-tank,,,Dusty Violet,,Medium,,,PP003002DUVLTMedium,upc:841949240382; ns-pid:PP003002DUVLTMedium
+naturalist-club-boxy-tank,,,Dusty Violet,,Large,,,PP003002DUVLTLarge,upc:841949240399; ns-pid:PP003002DUVLTLarge
+naturalist-club-boxy-tank,,,Dusty Violet,,XLarge,,,PP003002DUVLTXLarge,upc:841949240405; ns-pid:PP003002DUVLTXLarge
+naturalist-club-boxy-tank,,,Dusty Violet,,XXLarge,,,PP003002DUVLTXXLarge,upc:841949240412; ns-pid:PP003002DUVLTXXLarge
+naturalist-club-boxy-tank,,,Dusty Violet,,XXXLarge,,,PP003002DUVLTXXXLarge,upc:841949240429; ns-pid:PP003002DUVLTXXXLarge
